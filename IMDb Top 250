@@ -1,7 +1,7 @@
 { "name" : "Series", "image" : "https://www.i-pic.info/i/At7k317055.png", "info" : "", "author" : "Chaithale" ,"epgId" : "" ,
 "groups" : [
 { "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
-{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://drive.google.com/uc?id=11cpt8B5hFQXlPQA9WHz6uBh4QrlYeOrf", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Sereis/main/IMDb%20Top%20250", "import" : "FALSE" },
 
 { "name" : "1. Breaking Bad (2008-2013) ดับเครื่องชน คนดีแตก", "image" : "https://www.serie-day.com/wp-content/uploads/2023/08/Breaking-Bad-Season-1-2008-200x300.jpg", "url" : "", "import" : "" ,
 "stations" : [
