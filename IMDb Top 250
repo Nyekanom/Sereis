@@ -164,41 +164,5 @@
 { "name" : "Band of Brothers (2001) กองรบวีรบุรุษ EP8", "image" : "https://www.serie-day.com/wp-content/uploads/2023/09/Band-of-Brothers-2001-200x300.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/1247cd81-2c8b-5a69-ad9c-ca2054732c03.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Band of Brothers (2001) กองรบวีรบุรุษ EP9", "image" : "https://www.serie-day.com/wp-content/uploads/2023/09/Band-of-Brothers-2001-200x300.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/46f302c1-cacc-50bb-a300-9f0ee340afd6.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Band of Brothers (2001) กองรบวีรบุรุษ EP10", "image" : "https://www.serie-day.com/wp-content/uploads/2023/09/Band-of-Brothers-2001-200x300.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/18f9c15f-af88-54e2-b4be-94ced8683ca4.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "5. Sherlock (2010–2017) อัจฉริยะยอดนักสืบ", "image" : "https://posters.movieposterdb.com/10_08/2010/1475582/s_1475582_6c4d4dac.jpg", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "6. The Wire (2002–2008)", "image" : "", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "7. Avatar: The Last Airbender (2005–2008)", "image" : "", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "8. The Sopranos (1999–2007)", "image" : "", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "9. Rick and Morty (2013– )", "image" : "", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
-{ "name" : "10. Friends (1994–2004)", "image" : "", "url" : "", "import" : "" ,
-"stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
+] }
 ] )
