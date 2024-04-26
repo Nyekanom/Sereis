@@ -91,15 +91,9 @@
 ] },
 { "name" : "4. The Wire (2002–2008) ดับอิทธิพลเถื่อน", "image" : "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "5. Avatar: The Last Airbender (2005–2008) เณรน้อยเจ้าอภินิหาร", "image" : "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UY209_CR1,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "6. Game of Thrones (2011–2019) มหาศึกชิงบัลลังก์", "image" : "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -179,26 +173,18 @@
 ] },
 { "name" : "7. Rick and Morty (2013– )", "image" : "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
+
 ] },
 { "name" : "8. The Sopranos (1999–2007)", "image" : "https://m.media-amazon.com/images/M/MV5BZTZkMWVkNTEtYzMxMC00MzQzLTg5NjUtNTNmN2M2NzEwNzI0XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
+
 ] },
 { "name" : "9. Sherlock (2010–2017) อัจฉริยะยอดนักสืบ", "image" : "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
+
 ] },
 { "name" : "10. Fullmetal Alchemist: Brotherhood (2009–2010)", "image" : "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR4,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
+
 ] }
 ] }
