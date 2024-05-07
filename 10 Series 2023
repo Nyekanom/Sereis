@@ -1,0 +1,1184 @@
+{
+  "name": "10 ซีรีส์ 2023 ที่ผู้ชมทั้งไทยและทั่วโลกให้ความสนใจ",
+  "image": "https://s359.kapook.com/pagebuilder/5b31a182-270c-4ab7-86bb-a149809cb884.jpg",
+  "info": "",
+  "author": "Chaithale",
+  "epgId": "",
+  "groups": [
+    {
+      "name": "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก",
+      "image": "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png",
+      "url": "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss",
+      "import": "FALSE"
+    },
+    {
+      "name": "1. The Last of Us (2023) ",
+      "image": "https://posters.movieposterdb.com/22_11/2021/3581920/l_the-last-of-us-movie-poster_bb92a59b.jpg",
+      "url": "https://main.24playerhd.com/m3u8/ae0daf1d8f760a85597a7b2b/ae0daf1d8f760a85597a7b2b168.m3u8",
+      "import": "",
+      "stations": [
+        {
+          "name": "The Last of Us (2023) S1.E1 ∙ When You're Lost in the Darkness",
+          "image": "https://sflix.to/images/ep-no-thumb.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ae0daf1d8f760a85597a7b2b/ae0daf1d8f760a85597a7b2b168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E2 ∙ Infected",
+          "image": "https://img.sflix.to/xxrz/300x200/224/39/6c/396c31d544427ebbde40666c93ba15a0/396c31d544427ebbde40666c93ba15a0.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/09b030228188bd2ec9c62680/09b030228188bd2ec9c62680168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E3 ∙ Long, Long Time",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ef/6a/ef6a87f9ef503db8fe40d599887d7496/ef6a87f9ef503db8fe40d599887d7496.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/35d22130aecd9991ddbc1ab9/35d22130aecd9991ddbc1ab9168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E4 ∙ Please Hold to My Hand",
+          "image": "https://img.sflix.to/xxrz/300x200/224/71/6e/716ee4d3d09ffe6d9d66b63f00e35da2/716ee4d3d09ffe6d9d66b63f00e35da2.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/6203ea786d51ad329e9ba07a/6203ea786d51ad329e9ba07a168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E5 ∙ Endure and Survive",
+          "image": "https://img.sflix.to/xxrz/300x200/224/51/f8/51f8f3cd99f5d936c5c5dd5a8b41e97f/51f8f3cd99f5d936c5c5dd5a8b41e97f.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/093af1ff9faf533a844a4302/093af1ff9faf533a844a4302168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E6 ∙ Kin",
+          "image": "https://img.sflix.to/xxrz/300x200/224/33/27/33277f158c0ce848aeeacacd0a7c40d5/33277f158c0ce848aeeacacd0a7c40d5.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/3a41ec208783eee4b88266b9/3a41ec208783eee4b88266b9168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E7 ∙ Left Behind",
+          "image": "https://img.sflix.to/xxrz/300x200/224/04/41/04415b74eb530243148b993218e5198b/04415b74eb530243148b993218e5198b.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/8cf706c3c08fce867b5177da/8cf706c3c08fce867b5177da168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E8 ∙ When We Are in Need",
+          "image": "https://img.sflix.to/xxrz/300x200/224/37/65/3765d40c27e75b50473834610de17c14/3765d40c27e75b50473834610de17c14.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ee113bf41ea66b505e3bd05e/ee113bf41ea66b505e3bd05e168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E9 ∙ Look for the Light",
+          "image": "https://img.sflix.to/xxrz/300x200/224/8a/81/8a81bf4139a010133c19fc47540145e6/8a81bf4139a010133c19fc47540145e6.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/346bbe59eb7d6d4d699833b6/346bbe59eb7d6d4d699833b6168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Last of Us (2023) S1.E0 ∙ Making of The Last of Us",
+          "image": "https://img.sflix.to/xxrz/300x200/224/f3/5f/f35f51359111428fe37c3b38806bb685/f35f51359111428fe37c3b38806bb685.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/8a9a7de5094c4420bfe5ee8f/8a9a7de5094c4420bfe5ee8f168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "2. Wednesday (2022)",
+      "image": "https://posters.movieposterdb.com/22_09/2022/13443470/l_wednesday-movie-poster_b88d004c.png",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "Wednesday (2022) S1.E1 ∙ Wednesday's Child Is Full of Woe",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b4/b5/b4b53fb4bffbc1d9c5ee74a7189e0868/b4b53fb4bffbc1d9c5ee74a7189e0868.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/bcda7db37fe129004db530db/bcda7db37fe129004db530db168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E2 ∙ Woe Is the Loneliest Number",
+          "image": "https://img.sflix.to/xxrz/300x200/224/d5/fa/d5fa8109e7411937bd7c984332861d25/d5fa8109e7411937bd7c984332861d25.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9157e7e030da749c41a87410/9157e7e030da749c41a87410168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E3 ∙ Friend or Woe",
+          "image": "https://img.sflix.to/xxrz/300x200/224/0d/36/0d366bc9d0d285d0b9b306a06f1e482d/0d366bc9d0d285d0b9b306a06f1e482d.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/3260e664fb150a057c8ac7d2/3260e664fb150a057c8ac7d2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E4 ∙ Woe What a Night",
+          "image": "https://img.sflix.to/xxrz/300x200/224/88/ab/88abbefa0c035f249a0e63124cdf8dc5/88abbefa0c035f249a0e63124cdf8dc5.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/7c1db9a60fd32783dc591d74/7c1db9a60fd32783dc591d74168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E5 ∙ You Reap What You Woe",
+          "image": "https://img.sflix.to/xxrz/300x200/224/16/30/16303896cb68d2486e43567b297c370e/16303896cb68d2486e43567b297c370e.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/567515cd946a8774697122d0/567515cd946a8774697122d0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E6 ∙ Quid Pro Woe",
+          "image": "https://img.sflix.to/xxrz/300x200/224/6a/10/6a105bc0824792330f5588a896996bea/6a105bc0824792330f5588a896996bea.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/567515cd946a8774697122d0/567515cd946a8774697122d0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E7 ∙ If You Don't Woe Me by Now",
+          "image": "https://img.sflix.to/xxrz/300x200/224/7e/67/7e677a6a7ce283e79fe51412a4ec97db/7e677a6a7ce283e79fe51412a4ec97db.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/567515cd946a8774697122d0/567515cd946a8774697122d0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Wednesday (2022) S1.E8 ∙ A Murder of Woes",
+          "image": "https://img.sflix.to/xxrz/300x200/224/0a/ad/0aaddf84cdcc9dce6748684c6ddcbefb/0aaddf84cdcc9dce6748684c6ddcbefb.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/567515cd946a8774697122d0/567515cd946a8774697122d0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "3. Ginny & Georgia (2021-)",
+      "image": "https://s359.kapook.com//pagebuilder/b4ff7deb-468b-4f4b-9386-f38a09b7df99.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "Ginny & Georgia (2021) S1.E1 ∙ Pilot",
+          "image": "https://img.sflix.to/xxrz/300x200/224/da/95/da952010ad687b0825ecb547b601b0cb/da952010ad687b0825ecb547b601b0cb.jpg",
+          "epgId": "",
+          "url": "https://u.pollllop.com/_v11/70a115a577a6769d0e2ed461d29f391c2257bc02cc9cb76664d118ff38fac57393afb459162121efcddcaecddbfd473456d5827210ce25011b3fce45250618a6c2446b868b8bffd288826c069649d79c2c306409c3bc19bd9891a4db45fafd4c9a89427ac49929f196557325bdb3b43001c7fa0d730533f7b9f1de37f972856e921814bf7858fe50ac3e5c3003238bf6/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E2 ∙ It's a Face Not a Mask",
+          "image": "https://img.sflix.to/xxrz/300x200/224/2d/bd/2dbd0e183b2c3b606632f2a1d583d040/2dbd0e183b2c3b606632f2a1d583d040.jpg",
+          "epgId": "",
+          "url": "https://t.pollllop.com/_v11/6ea74f73ad7aaec9d5b424668479c3e72528735dacef3059d2a8cbf956caeff5e7177bf577253508df2aae485500af58b8fab1a536b245dce00974a9e9a94d3deee401ecfe8a71cc590c05e97a329a7e835a5eb25ed92c5b7fada2ca98a6f8c447ba29c2b39ea54ef17e76d6f37f3aef0acb00df5cb8c16b1b85551f5ffac01499a370f37571bb52a8e8d1beb3924ef6/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E3 ∙ Next Level Rich People Shit",
+          "image": "https://img.sflix.to/xxrz/300x200/224/7d/79/7d791bd5b3fb83fe7c9f5086b8e70a5f/7d791bd5b3fb83fe7c9f5086b8e70a5f.jpg",
+          "epgId": "",
+          "url": "https://v.pollllop.com/_v11/266374b9c38578075a7bea601ed46eb3f55f61acba82ddbb0665966b01f23fb1ba4cde26828f44cbce32f42cdc17b3f64954b81760e1044911e3171569ff1c9bbf9b1996ba880bd966be868d6283ca79956b38d87f7fd5aa532cdaffd67cbbe010c94dd1999c6b68792ac66b3a5a0ce08bff58832f9487f2ba956eab1a281e2907907d2282cf3bde34a383198646eea0/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E4 ∙ Lydia Bennett Is Hundo a Feminist",
+          "image": "https://img.sflix.to/xxrz/300x200/224/4b/28/4b28ebbed6397d8ebf9c6344f31bb76f/4b28ebbed6397d8ebf9c6344f31bb76f.jpg",
+          "epgId": "",
+          "url": "https://n.pollllop.com/_v11/466bc4f31563fac16b6e271647450841f1ebbb859b2c4dd32e7c9feab2285e6b17927971aeb0d1ce5ca6b26b64b4a684e3d99b95769e56d0cb743b7e091577596d212fce8dc49d5874b27b663d29f44387e2cc6ee8b582297b0a48fc7df4680470518cb111da81f0c2a0ac124507ddb270627b2c68000a7b6b7628793f511486da02cf1d2bcc36a39ca88031be2f9d95/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E5 ∙ Boo, Bitch",
+          "image": "https://img.sflix.to/xxrz/300x200/224/76/9b/769b1c4588ebfedee1a8d4d09e93a620/769b1c4588ebfedee1a8d4d09e93a620.jpg",
+          "epgId": "",
+          "url": "https://n.pollllop.com/_v11/0ab742bb3b2862f2d26d14b9c8274ee5ea7ab27d174ee08c9c40f2682aba62a440c267d999b0e2bd8fe82f5bdf342696d6abf47482be7acb977ee45df3db3c1c0fa0fd140fac19c0b943db67002ca68e107f5f1c80f0797acf37034ec00b5d86013990404a938cb9295d81a0615ea4bea0e8f8ee27f46ff8695db5f51b929c4295d1ea028220dbfe788d4a8fd308ab05/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E6 ∙ I'm Triggered",
+          "image": "https://img.sflix.to/xxrz/300x200/224/03/bd/03bdfbd6310e39a9ebf65db5911b380f/03bdfbd6310e39a9ebf65db5911b380f.jpg",
+          "epgId": "",
+          "url": "https://u.pollllop.com/_v11/74e2c85168296ee9200aea3183032cfae6bb6f689823c891c5ab0be128a5e529682398b822376bfd81968a687398f393537afca23c66d9b341b724196c952f242126f49dbdbe1827fed04cb932c8ebdb77285d46de7556b214ceb1ac57d6bc540e3c8673fc04a4c01dd81c3d3609a8a726e72b53d386f52a1a5df3cc359c4661480db8e2c3c366370e0651bc2dda6369/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E7 ∙ Happy Sweet Sixteen, Jerk",
+          "image": "https://img.sflix.to/xxrz/300x200/224/4f/e1/4fe1aed6d62103449a1594ceb43794cd/4fe1aed6d62103449a1594ceb43794cd.jpg",
+          "epgId": "",
+          "url": "https://k.pollllop.com/_v11/e906560805a39478e66c0d0292b1c48108890ce49c1361fcffed818cfda374f2158a5b26286f9eb65ae5da5c1c58184c64582a6d98ed21eb5f16c4dcc3f1cb40e2f52973668cfb3673dcdc36f58032d5683dd67a9c8c221931b4484ef8eb4c6cf69d4b0c94637aee7424fe9451ee8f04d811f76ee8bfe6aee9b87cb85a6af22a26e81dcc742acee3ef23debc4109a9f7/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E8 ∙ Check One, Check Other",
+          "image": "https://img.sflix.to/xxrz/300x200/224/1c/6f/1c6ff36efece297e041d1f9db0023573/1c6ff36efece297e041d1f9db0023573.jpg",
+          "epgId": "",
+          "url": "https://m.pollllop.com/_v11/0fbbf77844480812b4226e5e9043cbcfc17a0857fc67e72b774d9f13fea44dfd49e4ae578e166b7c17c447da72d20cd891ba30cdb87f5a94cf622913a7f18ae4d0b807b58cd2022925b27b25149a25c9007a4e0a65ab9607f8ea4679a8769334bd5bbcb64ec71e5100c3cb5a653a1471f767be62eb3dea513aa7018fe30700e1fd486309d50e090567c062244412f394/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E9 ∙ Feelings Are Hard",
+          "image": "https://img.sflix.to/xxrz/300x200/224/84/da/84dada958b83a25f717464d9e7b9f310/84dada958b83a25f717464d9e7b9f310.jpg",
+          "epgId": "",
+          "url": "https://z.pollllop.com/_v11/e84585c45b43d7a2af377859d9177d295e84fb38db888ff21ab13eca131186c538a6a44dc549a3c9f878df0286f7237303bc83f96e2be2d4ebe9084745d7cb05e2562134a6ffcf2fa65669ce8d4a55dcdbc346fc0a1cfc7a963bfb34b5ddb82afa8db1068e71cf5ba71bf9260e8d995d9f85af6b5c63265d95f6c923ac845b2ac519729e173537e9ff7d3619262f7778/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2021) S1.E10 ∙ The Worst Betrayal Since Jordyn and Kylie",
+          "image": "https://img.sflix.to/xxrz/300x200/224/e5/e1/e5e1f252bee9251a1e9a0b8894aa0429/e5e1f252bee9251a1e9a0b8894aa0429.jpg",
+          "epgId": "",
+          "url": "https://v.pollllop.com/_v11/670c84f43075b166dda3d6a38f32efe0cc0461d1a3a2308dc72855c531d8bb1eda167ccb4ad2897211754542967cced9ab76051c70d477c929c7adf5d7b57865f68507f94a2047d3b18011c70c2fd39881b25c17012844a99e8d0134473a94f068484b65eb1744179bfbf6533f1ac42e36fc86cb8c47350161f4040913357dd3e5dddaa48cbeddfc691269f665910415/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E1 ∙ Welcome Back, Bitches!",
+          "image": "https://img.sflix.to/xxrz/300x200/224/bd/f0/bdf0051f31a0e3e028eaaba26a7ed973/bdf0051f31a0e3e028eaaba26a7ed973.jpg",
+          "epgId": "",
+          "url": "https://n.pollllop.com/_v11/1c6cdb0dbc4fb0d8d218d57c84c02d5d4ead4ac40ddff25bd2ff575075049d2997e36017acf24d09b0ec2fa61a5289902231de3f54884ac62429cdcdeb2eef7f54d3b740fa1d9717a8a6ac9925bf86dd45db0dd2c459d70aba5ff4a9b8fb66345dbadd53a20e830dd6acfd2557b80429712559cd2edcdd0bd9d22dffd9f8c39bd264855dea78486f78d06238f08fab74/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E2 ∙ Why Does Everything Have to Be So Terrible, All the Time, Forever?",
+          "image": "https://img.sflix.to/xxrz/300x200/224/80/c2/80c27e08d97c110d39ab9b08d1a0a611/80c27e08d97c110d39ab9b08d1a0a611.jpg",
+          "epgId": "",
+          "url": "https://y.pollllop.com/_v11/bcf218d2870e5a55540f2df6baa0fd621360995968e8f7e0ea06c6cb8f468864ad0b897231aa0a79eeb41edf658f6e1ff991345b5ada4d77fa7ae142dacf3d0ca0fd766ed3c1b42936d810d3d14dc3ad4b2c7d30ae77070b9811b886409c27be679d23eeadd4f2e2e6966003b93be45c479490f380937de8f3d79da82ef014f9feefafe89fc8b5a82b8a3eeba69e85a9/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E3 ∙ What Are You Playing at, Little Girl?",
+          "image": "https://img.sflix.to/xxrz/300x200/224/48/11/4811e63cbb778dc1b97c27738463a997/4811e63cbb778dc1b97c27738463a997.jpg",
+          "epgId": "",
+          "url": "https://k.pollllop.com/_v11/a85775dd5c630394a7d610748b26642767f0b3941cf7b0184d5fdfadb1d8257b149a8f8527fbba0eee6ebc017276cf2e33bb6fa22bb4d396f30cbed3c7c165db322e9188d5fdfc671826d75b98bc449c1f3e5a4c93ff0d0c40173ac8a81ae888ec76281754bc0fcea55c741d46eb2eaa8a3d9809f487c093b0c2614b7b10032cbdcce05186c66ff93e0d87b4a1cafe89/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E4 ∙ Happy My Birthday to You",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b0/50/b05013cc3b1cab73ca4aebe13f81ff63/b05013cc3b1cab73ca4aebe13f81ff63.jpg",
+          "epgId": "",
+          "url": "https://m.pollllop.com/_v11/1b456882d3b91c4c272b8ec08cddd996c467d461b4b4eff8c9a9d98db49f302c02bbfd9c422253d2bc1ffb24f890e9fab65c3008f63d73bd159062a19889cf3fa4c43ca842ba8ab62217a5404d3456446e6687183b53dba083a63a7c0bb18d8938978a3a989ea514622848b701a2f6d8b9b877dcdc72aebb57781b1bea382e4392d1f30822952169b1a5a0de6cad90a2/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E5 ∙ Latkes Are Lit",
+          "image": "https://img.sflix.to/xxrz/300x200/224/4e/c3/4ec35b6a270101861d09fccee8aa40a9/4ec35b6a270101861d09fccee8aa40a9.jpg",
+          "epgId": "",
+          "url": "https://h.pollllop.com/_v11/6bb0bac1a77fa8703caa816575f03e6ae19c49ed88b26b9a46beffb07f552271792c23d3723acbaea9dea85d8ab2997d5a33977f0897ab2d724f547a587d0c1396b1ea2d1c4882a0a6ddc418cf8e84b9a0d55435c42d776d63c156c48f839124320e1e016736ef4454414321a36c69057212843a5addd9f9d19e0324db3c28d7d28ab03b91d86111b8d9242334ee8c05/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E6 ∙ A Very Merry Ginny & Georgia Christmas Special",
+          "image": "https://img.sflix.to/xxrz/300x200/224/d9/77/d9773ace1a3cdb6f515d12848d887011/d9773ace1a3cdb6f515d12848d887011.jpg",
+          "epgId": "",
+          "url": "https://v.pollllop.com/_v11/cf213f248cf7c09ff030473642f6ec2bb0d42735d91a253a2819a25f3ca290d734abc85dbbafcf0320e42193182e2c9d751ff26b72e7f591db357d1f4930869111e11bea0fa560561c8f7bad7b09fa03493a5450b6879d06306e0585d8222f55b20f268addcc9a830f07bb73ca744bd61801663317a1a4c02cfbc88ccae115d6b508bd49fc3b467a4ae8722bf031024c/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E7 ∙ Let Us Serenade the Sh*t Out of You",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b6/df/b6df605afca3b60b3ad96d9f0a16c439/b6df605afca3b60b3ad96d9f0a16c439.jpg",
+          "epgId": "",
+          "url": "https://p.pollllop.com/_v11/32f77e9be618f9f15c852871c7ca0278791f70517f64fc1960b8d4b56589fb00c3a459666ebd611de8efb6c1364f28f89d82314271cfc9cedbfeff57ab70848e91450abf0faf08890d5a699c2f22af6d6c17a384ae360de13b3e7f93d2deea9a6fa1d43218abcb454c9966a905f9064df29e447b937c49d4162ea35b1f0727658f18b5d23427fc23500adb5a90805604/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E8 ∙ Hark! Darkness Descends!",
+          "image": "https://img.sflix.to/xxrz/300x200/224/e2/34/e234710f31f1d62a0ac725414b0dea55/e234710f31f1d62a0ac725414b0dea55.jpg",
+          "epgId": "",
+          "url": "https://k.pollllop.com/_v11/96075da00e43f920506fe38187a69ef1e629bcc09ced1e223717daceb97c766150a7f6aeef125dad0875fda509c963024b5831ebe22866e54a27182004a26ef8f34b9d421ce9d25e9caa784a2710af2ea9b1d6595e6b1d72c5707952d8762aa2b2daf4310648c588f1e6a4bdb9ab4389b760afbe7800d947b68eab8bde018a89a9e9099f2916ba78aa9647b3148e0175/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E9 ∙ Kill Gil",
+          "image": "https://img.sflix.to/xxrz/300x200/224/47/46/4746e62e6dcd77d229b447d6ebbf88ed/4746e62e6dcd77d229b447d6ebbf88ed.jpg",
+          "epgId": "",
+          "url": "https://t.pollllop.com/_v11/329c19f9846107886cb78ae813c62700bed6aafd777564b70586acfcd747f9d99e0f2307f86233dcef8f13ec6d20e3ab4780d3e32467423e44af74d704252533773f04d7ae8ba5ca375d425cdbfca55a101b27b7c8d6984fdeb15893220c22f94ae806992d2e9ea9e3c6f37c06d5240beb115fafb5990e4ca10d4ee323bb5640830b80f804dc7ba7f0312f1c9379805b/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Ginny & Georgia (2023) S2.E10 ∙ I'm No Cinderella",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ee/e1/eee139a534f7de7734a63f969d84dfc8/eee139a534f7de7734a63f969d84dfc8.jpg",
+          "epgId": "",
+          "url": "https://x.pollllop.com/_v11/cd8e3253741504af6fbc3696497d2e2eda4ce4af2b910ffc1fece3c282db5963e137ebb7f1f77a208aee098811ccc42a7235afe886b43fa3585a6890a08758316a58dc17e3357f5fc46c5325583d9484f787d3f41868526a9bfffedf3b16f4d632a7d07ba39f1b40da04bd92c5d472eab51233169f55c7aaa8f3e3087af1650f3e44e78a08b503b03f8f5c8d4cec7f7f/720/index.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "4. One Piece (2023)",
+      "image": "https://posters.movieposterdb.com/23_09/2023/11737520/l_one-piece-movie-poster_8890aebf.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "One Piece (2023) S1.E1 ∙ Romance Dawn",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/l5y6uUcSa8DOXLpt57c7HNHc1jV-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/8ad979cf37f3774b2ddb68db/8ad979cf37f3774b2ddb68db168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E2 ∙ The Man in the Straw Hat",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/jAQAk2NslbXMykKGji7eN6RlOkz-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c2a9ba680eeabe845cf1759d/c2a9ba680eeabe845cf1759d168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E3 ∙ Tell No Tales",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/uiZM4kf6s5tl8WRTF2X1nlMPV0d-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/04c65ebf575971d567749c57/04c65ebf575971d567749c57168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E4 ∙ The Pirates Are Coming",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/rNQlcGHVhURSSBtDSXCZRy8syyx-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c2492bdce2d22a52c34c13f2/c2492bdce2d22a52c34c13f2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E5 ∙ Eat at Baratie!",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/8D8dxEwWrKoxvC6GMrZOJGAWS3P-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/b7583819c546329c16500b93/b7583819c546329c16500b93168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E6 ∙ The Chef and the Chore Boy",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/pSVrX3B0hyD52X0GFp7EHOeMw7X-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/485c9e8eae7b95ebdce75f94/485c9e8eae7b95ebdce75f94168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E7 ∙ The Girl with the Sawfish Tattoo",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/7.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/520b6890a95f4f7726f033b4/520b6890a95f4f7726f033b4168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "One Piece (2023) S1.E8 ∙ Worst in the East",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/08/8.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/3a34d77ad3dcbd8687de7019/3a34d77ad3dcbd8687de7019168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "5. Kaleidoscope (2023) ส่องกล้องปล้น",
+      "image": "https://s359.kapook.com//pagebuilder/bb45712a-0f60-4742-b22e-31c3833291b8.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "Kaleidoscope (2023) S1.E1 ∙ Black",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/v6g0TtG1TkERtnP0g3M1KTSNgQ8-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/623a876aa79761cd0558b388/623a876aa79761cd0558b388168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E2 ∙ Yellow: 6 Weeks Before the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/vbMndFzdFi7uZb21d9IF9ymcbVx-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c09e174d15214dd2a6382815/c09e174d15214dd2a6382815168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E3 ∙ Green: 7 Years Before the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/bvBdt3tIiAMPC8PAoMyroNxx7py-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9769720258cf3ff59659ce17/9769720258cf3ff59659ce17168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E4 ∙ Blue: 5 Days Before the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/Aw7mA5jduvXqZs4bGp0DeuEt2GR-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/166eea68307aaf3c0f822173/166eea68307aaf3c0f822173168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E5 ∙ Orange: 3 Weeks Before the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/uWh1JmnG5lXO1sKVgAI5057fYSQ-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/123c6910c1c6f3deabe8c12b/123c6910c1c6f3deabe8c12b168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E6 ∙ Violet: 24 Years Before the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/wb0Os1ELxulYYsQqykpeFBpXTSd-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9d42552bebb254cd2ca9bdae/9d42552bebb254cd2ca9bdae168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E7 ∙ Red: The Morning After the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/u6sSbUgdJBOvrVu4ohugmckVrpV-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/103aef03678c2835a1ec5ef2/103aef03678c2835a1ec5ef2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E8 ∙ Pink: 6 Months After the Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/gx3fowcghPl8KacOVFF1QTXPa8M-300x170.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/70576286f3eb03d4e361c28f/70576286f3eb03d4e361c28f168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Kaleidoscope (2023) S1.E9 ∙ White: The Heist",
+          "image": "https://www.overmovies.com/wp-content/uploads/2023/07/guwke4sAM5vjk5NGwFex53JdjqF-300x170.jpg",
+          "epgId": "",
+          "url": "",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "6. King the Land (2023) King Deo Raendeu",
+      "image": "https://s359.kapook.com//pagebuilder/d48920be-d651-4c7f-bc9e-d62df26a45f6.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "King the Land (2023) S1.E1 ∙ Episode #1.1",
+          "image": "https://img.sflix.to/xxrz/300x200/224/aa/a4/aaa414a45c090e7b5cfc5a2fccdcce16/aaa414a45c090e7b5cfc5a2fccdcce16.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/0c7c13cb39375783c669c96e/0c7c13cb39375783c669c96e168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E2 ∙ Episode #1.2",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b1/b6/b1b66e178db2e99de75bdfb80265e0ff/b1b66e178db2e99de75bdfb80265e0ff.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c30c6f0c370ea83db91dbf59/c30c6f0c370ea83db91dbf59168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E3 ∙ Episode #1.3",
+          "image": "https://img.sflix.to/xxrz/300x200/224/86/e7/86e77084fcc3d2c9e3fe344622cd54a3/86e77084fcc3d2c9e3fe344622cd54a3.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/375ad25f738609ecf9cecbce/375ad25f738609ecf9cecbce168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E4 ∙ Episode #1.4",
+          "image": "https://img.sflix.to/xxrz/300x200/224/88/49/884918c241c6535ffd7c449bbad677b7/884918c241c6535ffd7c449bbad677b7.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/073ddd871190e6d240fa1301/073ddd871190e6d240fa1301168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E5 ∙ Episode #1.5",
+          "image": "https://img.sflix.to/xxrz/300x200/224/e6/ac/e6ac3d11c7cdf8fde8d9ab3fa3463664/e6ac3d11c7cdf8fde8d9ab3fa3463664.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ad9814f7e1c9bed28854038b/ad9814f7e1c9bed28854038b168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E6 ∙ Episode #1.6",
+          "image": "https://img.sflix.to/xxrz/300x200/224/bd/52/bd52ae94a14af1d902e5a57d8ef17894/bd52ae94a14af1d902e5a57d8ef17894.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/042b2b1ad32e1f1faca41470/042b2b1ad32e1f1faca41470168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E7 ∙ Episode #1.7",
+          "image": "https://img.sflix.to/xxrz/300x200/224/e6/19/e61946e2034d7d6d5467e6cbe916c052/e61946e2034d7d6d5467e6cbe916c052.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/f0d931fb41e9bae258c0ff4a/f0d931fb41e9bae258c0ff4a168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E8 ∙ Episode #1.8",
+          "image": "https://img.sflix.to/xxrz/300x200/224/a0/f5/a0f5b5d02d43c3d84ddb75386fdd29c3/a0f5b5d02d43c3d84ddb75386fdd29c3.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/aa3e78d869c78d6b18f5d022/aa3e78d869c78d6b18f5d022168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E9 ∙ Episode #1.9",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ff/d3/ffd3342beb1d2c5dd0481d39995bdcc1/ffd3342beb1d2c5dd0481d39995bdcc1.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/a8646e19070f2728e02c7212/a8646e19070f2728e02c7212168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E10 ∙ Episode #1.10",
+          "image": "https://img.sflix.to/xxrz/300x200/224/40/77/4077633eafb0daa6616409b1bf3b7a11/4077633eafb0daa6616409b1bf3b7a11.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ed9edbbdfd777f216c69fcc6/ed9edbbdfd777f216c69fcc6168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E11 ∙ Episode #1.11",
+          "image": "https://img.sflix.to/xxrz/300x200/224/6d/8a/6d8ae261ddf8896c8584e6632853fcc2/6d8ae261ddf8896c8584e6632853fcc2.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/4d9cf9bf37a8dfcda501ad00/4d9cf9bf37a8dfcda501ad00168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E12 ∙ Episode #1.12",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ac/4f/ac4f436a042cc31bf12953777baa132f/ac4f436a042cc31bf12953777baa132f.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/bde169cfdcc0219d1cad6510/bde169cfdcc0219d1cad6510168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E13 ∙ Episode #1.13",
+          "image": "https://img.sflix.to/xxrz/300x200/224/22/be/22be28ef1adce59498fbfdca409075b4/22be28ef1adce59498fbfdca409075b4.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/527f2387e86b5a55148b39e0/527f2387e86b5a55148b39e0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E14 ∙ Episode #1.14",
+          "image": "https://img.sflix.to/xxrz/300x200/224/de/86/de8681addeb0608848171a6aefc956ce/de8681addeb0608848171a6aefc956ce.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/6be9507abde4c4673d9d7351/6be9507abde4c4673d9d7351168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E15 ∙ Episode #1.15",
+          "image": "https://img.sflix.to/xxrz/300x200/224/9c/aa/9caa4c858dc7a676084e7beaefa114ae/9caa4c858dc7a676084e7beaefa114ae.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/a8fbb33fe928c556fa0126f3/a8fbb33fe928c556fa0126f3168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "King the Land (2023) S1.E16 ∙ Episode #1.16",
+          "image": "https://img.sflix.to/xxrz/300x200/224/31/76/317682ab2de8f69a5941235524b8dd6b/317682ab2de8f69a5941235524b8dd6b.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/6ba04f326034999a7a77d54f/6ba04f326034999a7a77d54f168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "7. The Glory (2022) Deo geullori",
+      "image": "https://s359.kapook.com//pagebuilder/709f465d-7f08-4654-8cb0-91f4c37c4512.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "The Glory (2022) S1.E1 ∙ Episode #1.1",
+          "image": "https://img.sflix.to/xxrz/300x200/224/8d/d8/8dd845545f27836e2220ee49f3b6cca4/8dd845545f27836e2220ee49f3b6cca4.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ce2d022fd107bd78556a0625/ce2d022fd107bd78556a0625168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E2 ∙ Episode #1.2",
+          "image": "https://img.sflix.to/xxrz/300x200/224/d7/47/d747c5ead647259eaa91b4ab77bbcb21/d747c5ead647259eaa91b4ab77bbcb21.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/34cad2ad272518502679b944/34cad2ad272518502679b944168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E3 ∙ Episode #1.3",
+          "image": "https://img.sflix.to/xxrz/300x200/224/7a/7d/7a7de55b148d97147d63cd5d7a7472cf/7a7de55b148d97147d63cd5d7a7472cf.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9b261697b78c7d5692c10899/9b261697b78c7d5692c10899168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E4 ∙ Episode #1.4",
+          "image": "https://img.sflix.to/xxrz/300x200/224/92/2e/922e9d22e3e9e496147d60214229c2ce/922e9d22e3e9e496147d60214229c2ce.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/54266ab22face1adbbd87b90/54266ab22face1adbbd87b90168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E5 ∙ Episode #1.5",
+          "image": "https://img.sflix.to/xxrz/300x200/224/c9/71/c97119143512b46ddd4f11f2bbf88f03/c97119143512b46ddd4f11f2bbf88f03.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/2a325aaeb982e28315484603/2a325aaeb982e28315484603168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E6 ∙ Episode #1.6",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b6/4b/b64b196fe5310e04cdbcfe78a68a06e8/b64b196fe5310e04cdbcfe78a68a06e8.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/cb260b765732c4db584999e9/cb260b765732c4db584999e9168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E7 ∙ Episode #1.7",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b1/30/b130b4698c9fe89ad640afcd4efb9573/b130b4698c9fe89ad640afcd4efb9573.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9598fba830022e37c3730a6d/9598fba830022e37c3730a6d168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E8 ∙ Episode #1.8",
+          "image": "https://img.sflix.to/xxrz/300x200/224/00/a8/00a83e652d68e7ed88397b921376f2b7/00a83e652d68e7ed88397b921376f2b7.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/2204e4fd42c800f4ed62ece3/2204e4fd42c800f4ed62ece3168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E9 ∙ Episode #1.9",
+          "image": "https://img.sflix.to/xxrz/300x200/224/9a/07/9a07180a10d924b930ca3de72e4ba192/9a07180a10d924b930ca3de72e4ba192.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/2298d7131ae6355056b2f562/2298d7131ae6355056b2f562168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E10 ∙ Episode #1.10",
+          "image": "https://img.sflix.to/xxrz/300x200/224/d3/84/d3845b41b06021cb463342ffe14f71d8/d3845b41b06021cb463342ffe14f71d8.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/90346d06095a1e6633c7ad3b/90346d06095a1e6633c7ad3b168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E11 ∙ Episode #1.11",
+          "image": "https://img.sflix.to/xxrz/300x200/224/0c/e8/0ce8312e7658709a169b97c156ee0ed6/0ce8312e7658709a169b97c156ee0ed6.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/72b732fddc82aed9eb7b04cf/72b732fddc82aed9eb7b04cf168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E12 ∙ Episode #1.12",
+          "image": "https://img.sflix.to/xxrz/300x200/224/90/b2/90b2bea0426084d8fc33dda77acc0306/90b2bea0426084d8fc33dda77acc0306.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/96a7532081dbdcba254ab4e7/96a7532081dbdcba254ab4e7168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E13 ∙ Episode #1.13",
+          "image": "https://img.sflix.to/xxrz/300x200/224/60/c0/60c0fb18b5903b7e9578828993be2c72/60c0fb18b5903b7e9578828993be2c72.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c77285a16ed8bb8aaf6c8fea/c77285a16ed8bb8aaf6c8fea168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E14 ∙ Episode #1.14",
+          "image": "https://img.sflix.to/xxrz/300x200/224/33/74/33740f16d75d852a66e19ca5d3ae5d76/33740f16d75d852a66e19ca5d3ae5d76.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c37bef6b688f232568d99f83/c37bef6b688f232568d99f83168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E15 ∙ Episode #1.15",
+          "image": "https://img.sflix.to/xxrz/300x200/224/4d/18/4d18aa01d8fb57d792fb2c23a990aaf4/4d18aa01d8fb57d792fb2c23a990aaf4.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/533dc9da7e7f4844eee0f8ca/533dc9da7e7f4844eee0f8ca168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Glory (2022) S1.E16 ∙ Episode #1.16",
+          "image": "https://img.sflix.to/xxrz/300x200/224/5a/52/5a52815fe8aa0618c1e037bf316d982b/5a52815fe8aa0618c1e037bf316d982b.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/00929c608d0cf7d26ff3b9c5/00929c608d0cf7d26ff3b9c5168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "8. That '90s Show (2023)",
+      "image": "https://s359.kapook.com//pagebuilder/e9cfde35-2a17-406a-af16-cfbe1f8434fb.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "That '90s Show (2023) S1.E1 ∙ That '90s Pilot",
+          "image": "https://img.sflix.to/xxrz/300x200/224/7e/b9/7eb91ac888b0513d7c6f81435d1bccc8/7eb91ac888b0513d7c6f81435d1bccc8.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/5fbc89b26fc7693667d45b87/5fbc89b26fc7693667d45b87168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E2 ∙ Free Leia",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ca/ee/caee121865981bb2ddb0f66e246069b6/caee121865981bb2ddb0f66e246069b6.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/f08fb22fd054d77645bc8c57/f08fb22fd054d77645bc8c57168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E3 ∙ Lip Smackers",
+          "image": "https://img.sflix.to/xxrz/300x200/224/57/14/5714e0a4ac4cfb31bcc7615de5df465e/5714e0a4ac4cfb31bcc7615de5df465e.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/9a255d6f05bde11f1fafc51d/9a255d6f05bde11f1fafc51d168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E4 ∙ Rave",
+          "image": "https://img.sflix.to/xxrz/300x200/224/0f/0f/0f0f9aee13be5004757296a2307947fc/0f0f9aee13be5004757296a2307947fc.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/7475bf92851d9a1465c81d3f/7475bf92851d9a1465c81d3f168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E5 ∙ Step by Step",
+          "image": "https://img.sflix.to/xxrz/300x200/224/b1/1f/b11fd49306bfd3ee753ab982c4464726/b11fd49306bfd3ee753ab982c4464726.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E6 ∙ The Birthday Girl",
+          "image": "https://img.sflix.to/xxrz/300x200/224/64/27/64271669379a68125aec21b2e8f03df4/64271669379a68125aec21b2e8f03df4.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E7 ∙ Boyfriend Day One",
+          "image": "https://img.sflix.to/xxrz/300x200/224/2c/81/2c81f5195c784452723af8ba19f3442f/2c81f5195c784452723af8ba19f3442f.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E8 ∙ Summer Storm",
+          "image": "https://img.sflix.to/xxrz/300x200/224/f2/d0/f2d091b0f7c7fed86f2c192ce2525256/f2d091b0f7c7fed86f2c192ce2525256.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E9 ∙ Dirty Double Booker",
+          "image": "https://img.sflix.to/xxrz/300x200/224/de/09/de09f962773380a1acfb4d8465c319ab/de09f962773380a1acfb4d8465c319ab.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "That '90s Show (2023) S1.E10 ∙ Kids in America",
+          "image": "https://img.sflix.to/xxrz/300x200/224/07/56/0756f6c6157c2b6d07c999bacee7f9cb/0756f6c6157c2b6d07c999bacee7f9cb.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/newplaylist/3e562a03f8aa8a9a275e34f1/3e562a03f8aa8a9a275e34f1.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "9. The Fall of the House of Usher (2023)",
+      "image": "https://s359.kapook.com//pagebuilder/aa551f56-646e-4df6-97d7-bc25d0104e42.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E1 ∙ A Midnight Dreary",
+          "image": "https://img.sflix.to/xxrz/300x200/224/02/1b/021b4ec612680b390d4bdc34ad6f2c13/021b4ec612680b390d4bdc34ad6f2c13.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/1db351c3e8c8b96dd9fd983c/1db351c3e8c8b96dd9fd983c168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E2 ∙ The Masque of the Red Death",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ec/3a/ec3ae5e9067812992ba6e83145304943/ec3ae5e9067812992ba6e83145304943.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/55db976139607825b5982151/55db976139607825b5982151168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E3 ∙ Murder in the Rue Morgue",
+          "image": "https://img.sflix.to/xxrz/300x200/224/3e/7e/3e7e4b48ae1138ce70bd2372f0736580/3e7e4b48ae1138ce70bd2372f0736580.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/381a3833dc183c50b4dae6f2/381a3833dc183c50b4dae6f2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E4 ∙ The Black Cat",
+          "image": "https://img.sflix.to/xxrz/300x200/224/78/3b/783bc205c017a4a01aa3f461ac7755cc/783bc205c017a4a01aa3f461ac7755cc.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ec4a516d94257d361fa54ce0/ec4a516d94257d361fa54ce0168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E5 ∙ The Tell-Tale Heart",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ed/5f/ed5f21540e0c54902214b0aee78afdc6/ed5f21540e0c54902214b0aee78afdc6.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/461c8652c5b6dd794e9eaaff/461c8652c5b6dd794e9eaaff168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E6 ∙ Goldbug",
+          "image": "https://img.sflix.to/xxrz/300x200/224/4e/ef/4eefec66fb744922f3c6cd7529bfd0cf/4eefec66fb744922f3c6cd7529bfd0cf.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/db430e31485a73ee8b50420b/db430e31485a73ee8b50420b168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E7 ∙ The Pit and the Pendulum",
+          "image": "https://img.sflix.to/xxrz/300x200/224/da/44/da44f18b98f40b1dbb87e4e7d4515647/da44f18b98f40b1dbb87e4e7d4515647.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/e10644425d782a5bd981c799/e10644425d782a5bd981c799168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "The Fall of the House of Usher (2023) S1.E8 ∙ The Raven",
+          "image": "https://img.sflix.to/xxrz/300x200/224/6c/54/6c54108628334560ff6532971c38dbfd/6c54108628334560ff6532971c38dbfd.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/da2e6fb4773b793b937072fd/da2e6fb4773b793b937072fd168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    },
+    {
+      "name": "10. Shadow and Bone (2021-2023)",
+      "image": "https://posters.movieposterdb.com/23_11/2021/2403776/s_shadow-and-bone-movie-poster_09c15eed.jpg",
+      "url": "",
+      "import": "",
+      "stations": [
+        {
+          "name": "Shadow and Bone (2021) S1.E1 ∙ A Searing Burst of Light",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ad/08/ad0892a1d6483c115d37c9c0ebb38396/ad0892a1d6483c115d37c9c0ebb38396.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/d5a975f65fbcf02f902f72eb/d5a975f65fbcf02f902f72eb168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E2 ∙ We're All Someone's Monster",
+          "image": "https://img.sflix.to/xxrz/300x200/224/de/2a/de2ad4bb778eedb16780367ae8e3e31e/de2ad4bb778eedb16780367ae8e3e31e.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/2839e0b87dd9a2df7f137e56/2839e0b87dd9a2df7f137e56168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E3 ∙ The Making at the Heart of the World",
+          "image": "https://img.sflix.to/xxrz/300x200/224/21/e2/21e27fa24fdc174380e4b0d4e97a157c/21e27fa24fdc174380e4b0d4e97a157c.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/456a7f2995d7e33cc3c51862/456a7f2995d7e33cc3c51862168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E4 ∙ Otkazat'sya",
+          "image": "https://img.sflix.to/xxrz/300x200/224/a9/0f/a90f8303f39d03cb80cad88388a85f53/a90f8303f39d03cb80cad88388a85f53.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/b7b55d6bfcde355ad884e17c/b7b55d6bfcde355ad884e17c168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E5 ∙ Show Me Who You Are",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ce/fc/cefced6573fe288d04a5e69645891a1b/cefced6573fe288d04a5e69645891a1b.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/39cbd741d58b9266219bedac/39cbd741d58b9266219bedac168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E6 ∙ The Heart Is an Arrow",
+          "image": "https://img.sflix.to/xxrz/300x200/224/48/35/4835ca9a9a9c6ca51e05effa9c9d9bab/4835ca9a9a9c6ca51e05effa9c9d9bab.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c82b02b32bdb4747b9020cb2/c82b02b32bdb4747b9020cb2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E7 ∙ The Unsea",
+          "image": "https://img.sflix.to/xxrz/300x200/224/ba/53/ba53e19e141c9edee49ebf841337f060/ba53e19e141c9edee49ebf841337f060.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/8ef6923e6f0118de942ad4e3/8ef6923e6f0118de942ad4e3168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2021) S1.E8 ∙ No Mourners",
+          "image": "https://img.sflix.to/xxrz/300x200/224/47/20/47205231258abb2bd65134aa02f79738/47205231258abb2bd65134aa02f79738.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/4b21ef6eaea5ea0ad94401dc/4b21ef6eaea5ea0ad94401dc168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E1 ∙ No Shelter But Me",
+          "image": "https://img.sflix.to/xxrz/300x200/224/45/81/4581a70bf37cd5479094dfac76ea24ac/4581a70bf37cd5479094dfac76ea24ac.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c8bf5c4a4c5e2595bbe66cdd/c8bf5c4a4c5e2595bbe66cdd168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E2 ∙ Rusalye",
+          "image": "https://img.sflix.to/xxrz/300x200/224/cb/ee/cbeebaae5752b0a0cafb03932e810a25/cbeebaae5752b0a0cafb03932e810a25.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/c675b0185b440dcb1c6652fe/c675b0185b440dcb1c6652fe168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E3 ∙ Like Calls to Like",
+          "image": "https://img.sflix.to/xxrz/300x200/224/f7/74/f774027b7bab2c43174494d50097f91e/f774027b7bab2c43174494d50097f91e.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/ac442c77181e73b30f7db2cc/ac442c77181e73b30f7db2cc168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E4 ∙ Every Monstrous Thing",
+          "image": "https://img.sflix.to/xxrz/300x200/224/13/12/131238b8fac8ef636079f00e4e82ebac/131238b8fac8ef636079f00e4e82ebac.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/7bcb64f4d67cdf5477e92e05/7bcb64f4d67cdf5477e92e05168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E5 ∙ Yuyeh Sesh (Despise Your Heart)",
+          "image": "https://img.sflix.to/xxrz/300x200/224/34/68/3468f8346ba471717f6bd1dc143ea51e/3468f8346ba471717f6bd1dc143ea51e.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/b458e7912e17bd7f48acb4f8/b458e7912e17bd7f48acb4f8168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E6 ∙ Ni Weh Sesh (I Have No Heart)",
+          "image": "https://img.sflix.to/xxrz/300x200/224/e9/ab/e9abe66ac35252f67ed051e5cf208429/e9abe66ac35252f67ed051e5cf208429.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/6a17fbe11eb55d07b58a3738/6a17fbe11eb55d07b58a3738168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E7 ∙ Meet You in the Meadow",
+          "image": "https://img.sflix.to/xxrz/300x200/224/0d/74/0d744d9bc6eb3ebe06b24f701280744f/0d744d9bc6eb3ebe06b24f701280744f.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/6c1a0e0283c93aa9d9f22e6a/6c1a0e0283c93aa9d9f22e6a168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        },
+        {
+          "name": "Shadow and Bone (2023) S2.E8 ∙ No Funerals",
+          "image": "https://img.sflix.to/xxrz/300x200/224/60/15/601536206d296f933dfa20baaaef3053/601536206d296f933dfa20baaaef3053.jpg",
+          "epgId": "",
+          "url": "https://main.24playerhd.com/m3u8/36c314a6cad715a9e3d3b3c2/36c314a6cad715a9e3d3b3c2168.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "playInNatPlayer": ""
+        }
+      ]
+    }
+  ]
+}
