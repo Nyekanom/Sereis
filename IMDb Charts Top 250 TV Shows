@@ -66,19 +66,19 @@
 { "name" : "Breaking Bad (2013) S5.E13 ∙ To'hajiilee", "image" : "https://img.sflix.to/xxrz/300x200/224/cd/68/cd6827b66cf5c2f98a920077281d4a45/cd6827b66cf5c2f98a920077281d4a45.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/8b033feea0079c2fc92f5660/8b033feea0079c2fc92f5660438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Breaking Bad (2013) S5.E14 ∙ Ozymandias", "image" : "https://img.sflix.to/xxrz/300x200/224/3c/b9/3cb98224f33c33a76bf38be16bf0f5f7/3cb98224f33c33a76bf38be16bf0f5f7.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/a19eeac563153851e7646ec8/a19eeac563153851e7646ec8438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Breaking Bad (2013) S5.E15 ∙ Granite State", "image" : "https://img.sflix.to/xxrz/300x200/224/5f/c0/5fc073a0d30288fd5d36bf6ca02865ee/5fc073a0d30288fd5d36bf6ca02865ee.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/9c7a45be028ccdabd03fdf02/9c7a45be028ccdabd03fdf02438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Breaking Bad (2013) S5.E16 ∙ Felina", "image" : "https://img.sflix.to/xxrz/300x200/224/a5/e8/a5e82164856b78d099274a2ab2cb1dbb/a5e82164856b78d099274a2ab2cb1dbb.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/8f0074ae23b36d4eeba8a45e/8f0074ae23b36d4eeba8a45e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Breaking Bad (2013) S5.E16 ∙ Felina", "image" : "https://img.sflix.to/xxrz/300x200/224/a5/e8/a5e82164856b78d099274a2ab2cb1dbb/a5e82164856b78d099274a2ab2cb1dbb.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/8f0074ae23b36d4eeba8a45e/8f0074ae23b36d4eeba8a45e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "2. Planet Earth II (2016)", "image" : "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "3. Planet Earth (2006)", "image" : "https://m.media-amazon.com/images/M/MV5BY2NjNDUzOTgtMDFmNC00ZGQ4LWE5MDctMzczNGVlOGU1N2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "4. Band of Brothers (2001) กองรบวีรบุรุษ", "image" : "https://posters.movieposterdb.com/09_04/2001/185906/s_185906_77715178.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -91,7 +91,7 @@
 { "name" : "Band of Brothers (2001) S1.E7 ∙ The Breaking Point", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/io9dffm2TaQTBSw1U9V0vSPyZkF.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/4c2aed662a587e0101a0e3f1/4c2aed662a587e0101a0e3f1168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Band of Brothers (2001) S1.E8 ∙ The Last Patrol", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/l8yzOY0PXCT34TQqfXxitXnW0Mt.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/1247cd81-2c8b-5a69-ad9c-ca2054732c03.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Band of Brothers (2001) S1.E9 ∙ Why We Fight", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/kMvDoXSmcazEfc3TRpZ7IEJmVdd.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/46f302c1-cacc-50bb-a300-9f0ee340afd6.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Band of Brothers (2001) S1.E10 ∙ Points", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/tJCNQhY3fHn1OIwImfZQUIRPbuA.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/18f9c15f-af88-54e2-b4be-94ced8683ca4.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Band of Brothers (2001) S1.E10 ∙ Points", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/tJCNQhY3fHn1OIwImfZQUIRPbuA.jpg", "epgId" : "", "url" : "https://sgcdnseriesn.xyz/view/18f9c15f-af88-54e2-b4be-94ced8683ca4.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "5. Chernobyl (2019) ภัยพิบัติเชียร์โนบีล", "image" : "https://posters.movieposterdb.com/22_07/2019/7366338/s_7366338_0ad49661.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -99,7 +99,7 @@
 { "name" : "Chernobyl (2019) S1.E2 ∙ Please Remain Calm", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/kVsUEtOOYeLRmABVuZztl4k9onO.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/6f7a5b831f098c39c8dec3f0/6f7a5b831f098c39c8dec3f0168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Chernobyl (2019) S1.E3 ∙ Open Wide, O Earth", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/f3AgIEfGWWO3qNoxymagUqCBaE8.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/d636f3c8250c389386c035d7/d636f3c8250c389386c035d7168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Chernobyl (2019) S1.E4 ∙ The Happiness of All Mankind", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/707a86586f7f5d4b5a172a40/707a86586f7f5d4b5a172a40168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Chernobyl (2019) S1.E5 ∙ Vichnaya Pamyat", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/97b0c6b7767012eb5743568b/97b0c6b7767012eb5743568b168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Chernobyl (2019) S1.E5 ∙ Vichnaya Pamyat", "image" : "https://i0.wp.com/themoviedb.org/t/p/w185/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/97b0c6b7767012eb5743568b/97b0c6b7767012eb5743568b168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "6. The Wire (2002–2008) ดับอิทธิพลเถื่อน", "image" : "https://posters.movieposterdb.com/12_07/2002/306414/l_306414_12ac701c.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -162,7 +162,7 @@
 { "name" : "The Wire (2008) S5.E7 ∙ Took", "image" : "https://img.sflix.to/xxrz/300x200/224/86/42/86427e2b404bc039c1615e2278aee373/86427e2b404bc039c1615e2278aee373.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "The Wire (2008) S5.E8 ∙ Clarifications", "image" : "https://img.sflix.to/xxrz/300x200/224/f5/59/f5595caaa66c67e5aac36216ad00c746/f5595caaa66c67e5aac36216ad00c746.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "The Wire (2008) S5.E9 ∙ Late Editions", "image" : "https://img.sflix.to/xxrz/300x200/224/58/b7/58b7cdfda64bb5f475ef139f61a4a2ff/58b7cdfda64bb5f475ef139f61a4a2ff.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Wire (2008) S5.E10 ∙ -30-", "image" : "https://img.sflix.to/xxrz/300x200/224/50/97/509741642497ea19f0af98b3164dbb5a/509741642497ea19f0af98b3164dbb5a.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Wire (2008) S5.E10 ∙ -30-", "image" : "https://img.sflix.to/xxrz/300x200/224/50/97/509741642497ea19f0af98b3164dbb5a/509741642497ea19f0af98b3164dbb5a.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "7. Avatar: The Last Airbender (2005–2008) เณรน้อยเจ้าอภินิหาร", "image" : "https://f.woowoowoowoo.net/resize/250x400/6b/95/6b951a77aac3167b9b1b783fa0bbaebb/6b951a77aac3167b9b1b783fa0bbaebb.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -226,13 +226,17 @@
 { "name" : "Avatar: The Last Airbender (2008) S3.E18 ∙ Sozin's Comet, Part 1: The Phoenix King", "image" : "https://img.sflix.to/xxrz/300x200/224/e6/4e/e64e7ba38f1e01743830baa5951dbf9a/e64e7ba38f1e01743830baa5951dbf9a.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Avatar: The Last Airbender (2008) S3.E19 ∙ Sozin's Comet, Part 2: The Old Masters", "image" : "https://img.sflix.to/xxrz/300x200/224/a8/5d/a85d39aecbdffa2c36f6bbe0dbef7010/a85d39aecbdffa2c36f6bbe0dbef7010.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Avatar: The Last Airbender (2008) S3.E20 ∙ Sozin's Comet, Part 3: Into the Inferno", "image" : "https://img.sflix.to/xxrz/300x200/224/60/00/6000e1fcdd9da75f03b9621a4a859a9c/6000e1fcdd9da75f03b9621a4a859a9c.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Avatar: The Last Airbender (2008) S3.E21 ∙ Sozin's Comet, Part 4: Avatar Aang", "image" : "https://img.sflix.to/xxrz/300x200/224/9a/61/9a6148ce2bdbba611b75a8d5b7f253d8/9a6148ce2bdbba611b75a8d5b7f253d8.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Avatar: The Last Airbender (2008) S3.E21 ∙ Sozin's Comet, Part 4: Avatar Aang", "image" : "https://img.sflix.to/xxrz/300x200/224/9a/61/9a6148ce2bdbba611b75a8d5b7f253d8/9a6148ce2bdbba611b75a8d5b7f253d8.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "8. Blue Planet II (2017)", "image" : "https://m.media-amazon.com/images/M/MV5BNmUwYThjM2UtNTg1Yy00MzRlLThhMmYtNjlmOWU0ZmQxZDA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E1 ∙ One Ocean", "image" : "https://img.sflix.to/xxrz/300x200/224/45/81/4581a04a3baa32b3302b4c43741b9075/4581a04a3baa32b3302b4c43741b9075.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E2 ∙ The Deep", "image" : "https://img.sflix.to/xxrz/300x200/224/62/01/620161e780cbbcb417f9555d33c2c8a2/620161e780cbbcb417f9555d33c2c8a2.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E3 ∙ Coral Reefs", "image" : "https://img.sflix.to/xxrz/300x200/224/66/ac/66acbc51bf93033576ae339c6f4fe7b9/66acbc51bf93033576ae339c6f4fe7b9.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E4 ∙ Big Blue", "image" : "https://img.sflix.to/xxrz/300x200/224/34/d4/34d45b60b9787b198594293cd989980b/34d45b60b9787b198594293cd989980b.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E5 ∙ Green Seas", "image" : "https://img.sflix.to/xxrz/300x200/224/0d/3e/0d3ea03b939b13a7cad7677a0ed8cafc/0d3ea03b939b13a7cad7677a0ed8cafc.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E6 ∙ Coasts", "image" : "https://img.sflix.to/xxrz/300x200/224/97/63/9763ec7ae42f3437f436c244cb7413cf/9763ec7ae42f3437f436c244cb7413cf.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Blue Planet II (2017) S1.E7 ∙ Our Blue Planet", "image" : "https://img.sflix.to/xxrz/300x200/224/b0/04/b0044d4ade325fad4097abdaf034c883/b0044d4ade325fad4097abdaf034c883.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "9. The Sopranos (1999–2007)", "image" : "https://m.media-amazon.com/images/M/MV5BZTZkMWVkNTEtYzMxMC00MzQzLTg5NjUtNTNmN2M2NzEwNzI0XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -321,25 +325,25 @@
 { "name" : "The Sopranos (2007) S6.E18 ∙ Kennedy and Heidi", "image" : "https://img.sflix.to/xxrz/300x200/224/4f/be/4fbee176cf32a683d33b1ca9d1c53639/4fbee176cf32a683d33b1ca9d1c53639.jpg", "epgId" : "", "url" : "https://stm2pat.cdn-nanaplayer.com/hls2/02/00007/7q814say2s3o_,n,h,.urlset/master.m3u8?t=9-wmGZZhY6-GQBWTV29regeEuZ-B0sa7fEAJWMtxGrY&s=1729061958&e=10800&f=35281&srv=cstr3-team&i=0.3&sp=0&fr=7q814say2s3o&p1=stm2pat&p2=stm2pat", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "The Sopranos (2007) S6.E19 ∙ The Second Coming", "image" : "https://img.sflix.to/xxrz/300x200/224/ad/24/ad241c40ee89f46c641fcfd13238b9ca/ad241c40ee89f46c641fcfd13238b9ca.jpg", "epgId" : "", "url" : "https://stm2pat.cdn-nanaplayer.com/hls2/02/00007/ryhq8x2olv2k_,n,h,.urlset/master.m3u8?t=reBSBGJt0-vmltNauRZPMZMFH2OMwSs8JNvJ08VUbi0&s=1729061975&e=10800&f=35282&srv=cstorage1-saoerx&i=0.3&sp=0&fr=ryhq8x2olv2k&p1=stm2pat&p2=stm2pat", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "The Sopranos (2007) S6.E20 ∙ The Blue Comet", "image" : "https://img.sflix.to/xxrz/300x200/224/79/c2/79c2a32affec0670f0539e1ab65ae842/79c2a32affec0670f0539e1ab65ae842.jpg", "epgId" : "", "url" : "https://stm2pat.cdn-nanaplayer.com/hls2/01/00007/sst7642g1u18_,n,h,.urlset/master.m3u8?t=mJqZIBK_-fejV9SYXblDnhaNtPEEYYUdgcw1a4zVX-A&s=1729061989&e=10800&f=35283&srv=drapex1&i=0.3&sp=0&fr=sst7642g1u18&p1=stm2pat&p2=stm2pat", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Sopranos (2007) S6.E21 ∙ Made in America", "image" : "https://img.sflix.to/xxrz/300x200/224/50/25/50253acc547eaf48eaeb1724aca9d3dc/50253acc547eaf48eaeb1724aca9d3dc.jpg", "epgId" : "", "url" : "https://stm1con.cdn-nanaplayer.com/hls2/01/00007/h2znavfjs856_,n,h,.urlset/master.m3u8?t=0j3rk_QVnEBL4ryHGgQEDcDT2-xMYRP-2nYjVhQ419g&s=1729062003&e=10800&f=35284&srv=cstorage1-saoerx&i=0.3&sp=0&fr=h2znavfjs856&p1=stm1con&p2=stm1con", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Sopranos (2007) S6.E21 ∙ Made in America", "image" : "https://img.sflix.to/xxrz/300x200/224/50/25/50253acc547eaf48eaeb1724aca9d3dc/50253acc547eaf48eaeb1724aca9d3dc.jpg", "epgId" : "", "url" : "https://stm1con.cdn-nanaplayer.com/hls2/01/00007/h2znavfjs856_,n,h,.urlset/master.m3u8?t=0j3rk_QVnEBL4ryHGgQEDcDT2-xMYRP-2nYjVhQ419g&s=1729062003&e=10800&f=35284&srv=cstorage1-saoerx&i=0.3&sp=0&fr=h2znavfjs856&p1=stm1con&p2=stm1con", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "10. Cosmos: A Spacetime Odyssey (2014)", "image" : "https://m.media-amazon.com/images/M/MV5BZTE4MzNiMTEtODcwNy00ZmM1LWI3NWEtMDg1NzlmOWM3NzdhXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "11. Cosmos (1980)", "image" : "https://m.media-amazon.com/images/M/MV5BOTA5MWFhMzAtOWU1OS00Yjk4LTlkNGItNGI3N2VkNzcyNGU2XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "12. Our Planet (2019-2023)", "image" : "https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "13. Game of Thrones (2011–2019) มหาศึกชิงบัลลังก์", "image" : "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -415,19 +419,19 @@
 { "name" : "Game of Thrones (2019) S8.E3 ∙ The Long Night", "image" : "https://img.sflix.to/xxrz/300x200/224/72/12/7212aa70f2785671393b77327023ca60/7212aa70f2785671393b77327023ca60.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/cc31566fd3b15abe87194a957599040e/cc31566fd3b15abe87194a957599040e.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Game of Thrones (2019) S8.E4 ∙ The Last of the Starks", "image" : "https://img.sflix.to/xxrz/300x200/224/7b/9d/7b9dce8cdf0b079de6b13ce953f26d08/7b9dce8cdf0b079de6b13ce953f26d08.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/e637528a00030fe5a3e210e828d81376/e637528a00030fe5a3e210e828d81376.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Game of Thrones (2019) S8.E5 ∙ The Bells", "image" : "https://img.sflix.to/xxrz/300x200/224/d8/06/d80600d12e9c09f3781d5b5a1398eb4d/d80600d12e9c09f3781d5b5a1398eb4d.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/0ae79f9a4c956237bb4f5250c7ba90e5/0ae79f9a4c956237bb4f5250c7ba90e5.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Game of Thrones (2019) S8.E6 ∙ The Iron Throne", "image" : "https://img.sflix.to/xxrz/300x200/224/bf/60/bf60893609fd7cf302f4145e7f000580/bf60893609fd7cf302f4145e7f000580.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/33d0f46ed32f1096de130ccabb78d14c/33d0f46ed32f1096de130ccabb78d14c.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Game of Thrones (2019) S8.E6 ∙ The Iron Throne", "image" : "https://img.sflix.to/xxrz/300x200/224/bf/60/bf60893609fd7cf302f4145e7f000580/bf60893609fd7cf302f4145e7f000580.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/33d0f46ed32f1096de130ccabb78d14c/33d0f46ed32f1096de130ccabb78d14c.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "14. Bluey (2018-)", "image" : "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "15. The World at War (1973–1974)", "image" : "https://m.media-amazon.com/images/M/MV5BM2I1OGUyNmYtZmNiOC00OGQ4LWFlNDEtYTM5ZTAxMDI4ZmMyXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "16. Fullmetal Alchemist: Brotherhood (2009–2010)", "image" : "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR4,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -479,7 +483,7 @@
 { "name" : "Fullmetal Alchemist: Brotherhood (2010) S1.E47 ∙ Yami no shisha", "image" : "https://img.sflix.to/xxrz/300x200/224/a5/09/a50977af63c58789c80d0ec1723132fa/a50977af63c58789c80d0ec1723132fa.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Fullmetal Alchemist: Brotherhood (2010) S1.E48 ∙ Chikadou no chikai", "image" : "https://img.sflix.to/xxrz/300x200/224/5a/6e/5a6ee7f68414c4ce72b2284537bc2259/5a6ee7f68414c4ce72b2284537bc2259.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Fullmetal Alchemist: Brotherhood (2010) S1.E49 ∙ Oyako no jou", "image" : "https://img.sflix.to/xxrz/300x200/224/36/da/36da7a7a0027dabd755a3a740d9b7b24/36da7a7a0027dabd755a3a740d9b7b24.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Fullmetal Alchemist: Brotherhood (2010) S1.E50 ∙ Sentoraru douran", "image" : "https://img.sflix.to/xxrz/300x200/224/f9/38/f9387e152d093f5ad2ec205a461e1734/f9387e152d093f5ad2ec205a461e1734.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Fullmetal Alchemist: Brotherhood (2010) S1.E50 ∙ Sentoraru douran", "image" : "https://img.sflix.to/xxrz/300x200/224/f9/38/f9387e152d093f5ad2ec205a461e1734/f9387e152d093f5ad2ec205a461e1734.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "17. Rick and Morty (2013– )", "image" : "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -492,38 +496,38 @@
 { "name" : "Rick and Morty (2021) S5.E7 ∙ Gotron Jerrysis Rickvangelion", "image" : "https://img.sflix.to/xxrz/300x200/224/36/33/3633bd7d42b2e0f4d4f2405191008eda/3633bd7d42b2e0f4d4f2405191008eda.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/newvidMWI3npli/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Rick and Morty (2021) S5.E8 ∙ Rickternal Friendshine of the Spotless Mort", "image" : "https://img.sflix.to/xxrz/300x200/224/18/66/1866188b115a1f01c515d8ede1519a1c/1866188b115a1f01c515d8ede1519a1c.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/newvidizzsjlN3/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Rick and Morty (2021) S5.E9 ∙ Forgetting Sarick Mortshall", "image" : "https://img.sflix.to/xxrz/300x200/224/2e/4c/2e4cde0e982ed37d1813f673db3da014/2e4cde0e982ed37d1813f673db3da014.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/newvidBEl39yej/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Rick and Morty (2021) S5.E10 ∙ Rickmurai Jack", "image" : "https://img.sflix.to/xxrz/300x200/224/c3/51/c351f016cf7d337dbf3008b52ee62656/c351f016cf7d337dbf3008b52ee62656.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/newvid8joaJX52/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Rick and Morty (2021) S5.E10 ∙ Rickmurai Jack", "image" : "https://img.sflix.to/xxrz/300x200/224/c3/51/c351f016cf7d337dbf3008b52ee62656/c351f016cf7d337dbf3008b52ee62656.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/newvid8joaJX52/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "18. Life (2009)", "image" : "https://m.media-amazon.com/images/M/MV5BZDJjMzJiMTktMWZkZi00YWY0LWJjNGUtY2ZmNTFlOThhZTA4XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "19. The Last Dance (2020)", "image" : "https://m.media-amazon.com/images/M/MV5BOTQyYmQ1N2UtYjFkNS00NzgyLTk5YTUtYjExMDdjOTA3MGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/80b09765a22bb3def3095bc0/80b09765a22bb3def3095bc0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/e576b78bb03afb22d3df0137/e576b78bb03afb22d3df0137438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/76148f474d344f576be939fb/76148f474d344f576be939fb438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2efd6337dfaee819d3498097/2efd6337dfaee819d3498097438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/99d0132dbb1d3905484ad809/99d0132dbb1d3905484ad809438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/57522ef484e02ee259339dac/57522ef484e02ee259339dac438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/25ad520970ef80d65ce4b79b/25ad520970ef80d65ce4b79b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/b87dc43488bd426ff060cd8b/b87dc43488bd426ff060cd8b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/3bc2f54adc032a97da04936e/3bc2f54adc032a97da04936e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "The Last Dance (2020) ", "image" : "https://www.seriesday.com/wp-content/uploads/2023/03/The-Last-Dance-2020-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/18ea2a68c8ffd4806669f46a/18ea2a68c8ffd4806669f46a438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E1 ∙ Episode I", "image" : "https://img.sflix.to/xxrz/300x200/224/cc/a7/cca79b75e13a09771b984c4e5ce7cd2c/cca79b75e13a09771b984c4e5ce7cd2c.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/80b09765a22bb3def3095bc0/80b09765a22bb3def3095bc0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E2 ∙ Episode II", "image" : "https://img.sflix.to/xxrz/300x200/224/8e/6f/8e6f2c605c696bf6669e7377b75916e0/8e6f2c605c696bf6669e7377b75916e0.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/e576b78bb03afb22d3df0137/e576b78bb03afb22d3df0137438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E3 ∙ Episode III", "image" : "https://img.sflix.to/xxrz/300x200/224/62/99/6299059a7fc928ef65ff54feb867afb9/6299059a7fc928ef65ff54feb867afb9.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/76148f474d344f576be939fb/76148f474d344f576be939fb438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E4 ∙ Episode IV", "image" : "https://img.sflix.to/xxrz/300x200/224/33/8d/338de5830abbc9a730a6b4554bfd8dd7/338de5830abbc9a730a6b4554bfd8dd7.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2efd6337dfaee819d3498097/2efd6337dfaee819d3498097438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E5 ∙ Episode V", "image" : "https://img.sflix.to/xxrz/300x200/224/b2/8e/b28efc99286c0530284f6af05a8e56e4/b28efc99286c0530284f6af05a8e56e4.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/99d0132dbb1d3905484ad809/99d0132dbb1d3905484ad809438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E6 ∙ Episode VI", "image" : "https://img.sflix.to/xxrz/300x200/224/1a/45/1a454ec212cc442425c4e8e0064d5bd5/1a454ec212cc442425c4e8e0064d5bd5.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/57522ef484e02ee259339dac/57522ef484e02ee259339dac438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E7 ∙ Episode VII", "image" : "https://img.sflix.to/xxrz/300x200/224/a0/66/a0668fd5f71368c928e85fb2c2ba2555/a0668fd5f71368c928e85fb2c2ba2555.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/25ad520970ef80d65ce4b79b/25ad520970ef80d65ce4b79b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E8 ∙ Episode VIII", "image" : "https://img.sflix.to/xxrz/300x200/224/d3/f2/d3f2226bd62fb3dcdd5e77123ee971bd/d3f2226bd62fb3dcdd5e77123ee971bd.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/b87dc43488bd426ff060cd8b/b87dc43488bd426ff060cd8b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E9 ∙ Episode IX", "image" : "https://img.sflix.to/xxrz/300x200/224/98/7e/987e744e0164980e62b65973c5a8b7a1/987e744e0164980e62b65973c5a8b7a1.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/3bc2f54adc032a97da04936e/3bc2f54adc032a97da04936e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "The Last Dance (2020) S1.E10 ∙ Episode X", "image" : "https://img.sflix.to/xxrz/300x200/224/c3/84/c38487e49b7080053a5b6efa300d72ef/c38487e49b7080053a5b6efa300d72ef.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/18ea2a68c8ffd4806669f46a/18ea2a68c8ffd4806669f46a438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "20. The Twilight Zone (1959 - 1964)", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlOROa8v82RBgUDQgKoqlO9Ga6BIRx0qfPXlBPFs1A5tjN8QX", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "21. The Vietnam War (2017)", "image" : "https://m.media-amazon.com/images/M/MV5BYTQ1ZWYzMmQtNWU5OC00YWY0LTkyMWMtMTU0NjYxMjJkMmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "22. Sherlock (2010–2017) อัจฉริยะยอดนักสืบ", "image" : "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg", "url" : "", "import" : "" ,
 "stations" : [
@@ -539,360 +543,370 @@
 { "name" : "Sherlock (2014) S3.E4 ∙ The Abominable Bride", "image" : "https://m.media-amazon.com/images/S/pv-target-images/f8c8587d06db0b1d9781a943d773d083f410499878e0e5b75787463f462d88db._BR-6_AC_SX360_FMwebp_.png", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/H9cZAgbs/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Sherlock (2017) S4.E1 ∙ The Six Thatchers", "image" : "https://m.media-amazon.com/images/S/pv-target-images/1bfcb503db0770d1ca793537d30b52ec975be5df012d9d3cdcbf0d6ab2257dd3._BR-6_AC_SX360_FMwebp_.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/BytZdyPO/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "Sherlock (2017) S4.E2 ∙ The Lying Detective", "image" : "https://m.media-amazon.com/images/S/pv-target-images/3d280152caab606551c151b253d4ec499af6cb99d7cca7070cf31968c4d12aa1._BR-6_AC_SX360_FMwebp_.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/jASeqQBT/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "Sherlock (2017) S4.E3 ∙ The Final Problem", "image" : "https://m.media-amazon.com/images/S/pv-target-images/43c05e3c12cd5e066c1520543d8e1b7d0aee7a3f0b35347e451bfa25bebf0ada._BR-6_AC_SX360_FMwebp_.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/lz7908Wg/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Sherlock (2017) S4.E3 ∙ The Final Problem", "image" : "https://m.media-amazon.com/images/S/pv-target-images/43c05e3c12cd5e066c1520543d8e1b7d0aee7a3f0b35347e451bfa25bebf0ada._BR-6_AC_SX360_FMwebp_.jpg", "epgId" : "", "url" : "https://series-cdn.team-indy.net:8443/vod/lz7908Wg/video.mp4/playlist.m3u8", "referer" : "https://series.team-indy.net/", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "23. Attack on Titan (2013–2023)", "image" : "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "24. Batman: The Animated Series (1992–1995)", "image" : "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "25. The Office (2005 - 2013)", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ-0paZQCnnc68y51MItguJrzBtc1DhWfw4Aw0BBnYNGir5SPn", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "26. Better Call Saul (2015 - 2022) มีปัญหาปรึกษาซอล", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFALATQqHRaoJKhDZwqelGnIqaHUSPekc52sE81OBMmTth2tzC", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "S1E1", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/1af8271f41fcaa47a7753ff6/1af8271f41fcaa47a7753ff6438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E2", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/739948e90d1fc0cd201a795d/739948e90d1fc0cd201a795d438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E3", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/12b37474dd0068b640245838/12b37474dd0068b640245838438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E4", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c2c547a1b0c69e33e019cac8/c2c547a1b0c69e33e019cac8438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E5", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/dd65d0c936437da5bc8c663e/dd65d0c936437da5bc8c663e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E6", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c9bccf6832170739422d96bc/c9bccf6832170739422d96bc438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E7", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7b2122f8c9813e116e5e7c69/7b2122f8c9813e116e5e7c69438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E8", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/9ae609fb039f35ed58cf251b/9ae609fb039f35ed58cf251b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E9", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/0e5b1ea7ed33e0a4008c049d/0e5b1ea7ed33e0a4008c049d438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "S1E10", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-2015-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/34f6353f0fc4b9aa728506f6/34f6353f0fc4b9aa728506f6438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e1", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7e2a4f405155713d6a419de4/7e2a4f405155713d6a419de4438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e2", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/945411e34f0fd14878129f6b/945411e34f0fd14878129f6b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e3", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/92e48ebce630be6b46bdf713/92e48ebce630be6b46bdf713438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e4", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/5358eddde9b752ae61acc5d8/5358eddde9b752ae61acc5d8438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e5", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/6a5e63f39924919c25839644/6a5e63f39924919c25839644438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e6", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2d42a3558b693e7aa6b5d653/2d42a3558b693e7aa6b5d653438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e7", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7781d5ee67a3728cebd655e1/7781d5ee67a3728cebd655e1438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e8", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/d8d4f9fb2192ffd5442e23a0/d8d4f9fb2192ffd5442e23a0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e9", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/285c13f101ce87f211fd62d0/285c13f101ce87f211fd62d0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "s2e10", "image" : "https://www.seriesday.com/wp-content/uploads/2023/08/Better-Call-Saul-Season-2-2016-187x269.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c7cc9b889c98ec818e35f947/c7cc9b889c98ec818e35f947438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
+{ "name" : "Better Call Saul (2015) S1.E1 ∙ Uno", "image" : "https://img.sflix.to/xxrz/300x200/224/63/e9/63e9ac48d0dadffe03e2b2f7424f6f24/63e9ac48d0dadffe03e2b2f7424f6f24.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/1af8271f41fcaa47a7753ff6/1af8271f41fcaa47a7753ff6438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E2 ∙ Mijo", "image" : "https://img.sflix.to/xxrz/300x200/224/1a/11/1a1146f134a098b60392cbde3e0012bd/1a1146f134a098b60392cbde3e0012bd.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/739948e90d1fc0cd201a795d/739948e90d1fc0cd201a795d438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E3 ∙ Nacho", "image" : "https://img.sflix.to/xxrz/300x200/224/32/68/32680000ba9e526f4e59de958a228fc4/32680000ba9e526f4e59de958a228fc4.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/12b37474dd0068b640245838/12b37474dd0068b640245838438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E4 ∙ Hero", "image" : "https://img.sflix.to/xxrz/300x200/224/63/8a/638ad54ce2f01cdc47e19c5f610226e1/638ad54ce2f01cdc47e19c5f610226e1.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c2c547a1b0c69e33e019cac8/c2c547a1b0c69e33e019cac8438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E5 ∙ Alpine Shepherd Boy", "image" : "https://img.sflix.to/xxrz/300x200/224/36/cc/36cc2ac7a94a775d93a9b6552695d831/36cc2ac7a94a775d93a9b6552695d831.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/dd65d0c936437da5bc8c663e/dd65d0c936437da5bc8c663e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E6 ∙ Five-O", "image" : "https://img.sflix.to/xxrz/300x200/224/f5/16/f516c94e3ecf7296e1ed7d2a6e944b1c/f516c94e3ecf7296e1ed7d2a6e944b1c.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c9bccf6832170739422d96bc/c9bccf6832170739422d96bc438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E7 ∙ Bingo", "image" : "https://img.sflix.to/xxrz/300x200/224/1f/f1/1ff10e2f5e460098e1fbcd76ec03d69d/1ff10e2f5e460098e1fbcd76ec03d69d.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7b2122f8c9813e116e5e7c69/7b2122f8c9813e116e5e7c69438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E8 ∙ RICO", "image" : "https://img.sflix.to/xxrz/300x200/224/1e/3d/1e3dfa4275f2075122872afa1b9256d7/1e3dfa4275f2075122872afa1b9256d7.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/9ae609fb039f35ed58cf251b/9ae609fb039f35ed58cf251b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E9 ∙ Pimento", "image" : "https://img.sflix.to/xxrz/300x200/224/49/9f/499f6fc98875cace2a483a88713602b1/499f6fc98875cace2a483a88713602b1.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/0e5b1ea7ed33e0a4008c049d/0e5b1ea7ed33e0a4008c049d438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2015) S1.E10 ∙ Marco", "image" : "https://img.sflix.to/xxrz/300x200/224/89/18/8918c5a95a779c5612d62efe2ca7dd3b/8918c5a95a779c5612d62efe2ca7dd3b.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/34f6353f0fc4b9aa728506f6/34f6353f0fc4b9aa728506f6438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E1 ∙ Switch", "image" : "https://img.sflix.to/xxrz/300x200/224/4f/4d/4f4d6fdf3c945c3ef50b84cebfffca1e/4f4d6fdf3c945c3ef50b84cebfffca1e.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7e2a4f405155713d6a419de4/7e2a4f405155713d6a419de4438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E2 ∙ Cobbler", "image" : "https://img.sflix.to/xxrz/300x200/224/06/5e/065eebc567831490a15745c1856d5e35/065eebc567831490a15745c1856d5e35.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/945411e34f0fd14878129f6b/945411e34f0fd14878129f6b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E3 ∙ Amarillo", "image" : "https://img.sflix.to/xxrz/300x200/224/d8/fe/d8fe3f5999ddcb737527ccf326e71531/d8fe3f5999ddcb737527ccf326e71531.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/92e48ebce630be6b46bdf713/92e48ebce630be6b46bdf713438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E4 ∙ Gloves Off", "image" : "https://img.sflix.to/xxrz/300x200/224/2d/41/2d417c82d1652f913bd17a1ae18020e6/2d417c82d1652f913bd17a1ae18020e6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/5358eddde9b752ae61acc5d8/5358eddde9b752ae61acc5d8438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E5 ∙ Rebecca", "image" : "https://img.sflix.to/xxrz/300x200/224/06/54/0654a6a708ddc04a1c1925ce57a24426/0654a6a708ddc04a1c1925ce57a24426.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/6a5e63f39924919c25839644/6a5e63f39924919c25839644438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E6 ∙ Bali Ha'i", "image" : "https://img.sflix.to/xxrz/300x200/224/c2/9b/c29bd5fb7d797bcdb02e37dd4dc41e2d/c29bd5fb7d797bcdb02e37dd4dc41e2d.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2d42a3558b693e7aa6b5d653/2d42a3558b693e7aa6b5d653438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E7 ∙ Inflatable", "image" : "https://img.sflix.to/xxrz/300x200/224/95/59/9559b267cc6d37ec232ee8a31c0d87d6/9559b267cc6d37ec232ee8a31c0d87d6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7781d5ee67a3728cebd655e1/7781d5ee67a3728cebd655e1438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E8 ∙ Fifi", "image" : "https://img.sflix.to/xxrz/300x200/224/f9/4e/f94ea98e19aa4c55e82b9e23eddde085/f94ea98e19aa4c55e82b9e23eddde085.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/d8d4f9fb2192ffd5442e23a0/d8d4f9fb2192ffd5442e23a0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E9 ∙ Nailed", "image" : "https://img.sflix.to/xxrz/300x200/224/1b/3b/1b3bf704dc16f62be3818c15827b161d/1b3bf704dc16f62be3818c15827b161d.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/285c13f101ce87f211fd62d0/285c13f101ce87f211fd62d0438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2016) S2.E10 ∙ Klick", "image" : "https://img.sflix.to/xxrz/300x200/224/4f/52/4f5202faeeebe3bf8531e20f283c8fb4/4f5202faeeebe3bf8531e20f283c8fb4.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c7cc9b889c98ec818e35f947/c7cc9b889c98ec818e35f947438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E1 ∙ Mabel", "image" : "https://img.sflix.to/xxrz/300x200/224/3d/29/3d295a6d4b6749c3091a1133ab8a21b8/3d295a6d4b6749c3091a1133ab8a21b8.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/6824e936073877347afd8588/6824e936073877347afd8588438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E2 ∙ Witness", "image" : "https://img.sflix.to/xxrz/300x200/224/36/cf/36cf2eda2a67c8615bbceec52c26a298/36cf2eda2a67c8615bbceec52c26a298.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/e1762de41ca487825598ece9/e1762de41ca487825598ece9438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E3 ∙ Sunk Costs", "image" : "https://img.sflix.to/xxrz/300x200/224/d5/ed/d5eda6d573eb7f45b0a91e1d5800a5e6/d5eda6d573eb7f45b0a91e1d5800a5e6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/d200c78639f6606871ea956e/d200c78639f6606871ea956e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E4 ∙ Sabrosito", "image" : "https://img.sflix.to/xxrz/300x200/224/d6/1e/d61e3a70b034cb979a96cc74d580550e/d61e3a70b034cb979a96cc74d580550e.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/609b3b96294880d99b009c1d/609b3b96294880d99b009c1d.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E5 ∙ Chicanery", "image" : "https://img.sflix.to/xxrz/300x200/224/d7/54/d754a4002cb0531c729beb2e955241aa/d754a4002cb0531c729beb2e955241aa.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/74c729088bc504981a91ccab/74c729088bc504981a91ccab438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E6 ∙ Off Brand", "image" : "https://img.sflix.to/xxrz/300x200/224/50/ee/50eedd4c13ac9c152238a02f0a303af5/50eedd4c13ac9c152238a02f0a303af5.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/950a0c4d12ae21a1cde4e725/950a0c4d12ae21a1cde4e725438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E7 ∙ Expenses", "image" : "https://img.sflix.to/xxrz/300x200/224/9a/45/9a45283b76bb7e8eeca06fbddf08eded/9a45283b76bb7e8eeca06fbddf08eded.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/905980a8baed387f25ecf9a3/905980a8baed387f25ecf9a3438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E8 ∙ Slip", "image" : "https://img.sflix.to/xxrz/300x200/224/43/eb/43ebbc4b7f42ce64169434dbeffbb8b6/43ebbc4b7f42ce64169434dbeffbb8b6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/dff137580b5a6c09bf7679ca/dff137580b5a6c09bf7679ca438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E9 ∙ Fall", "image" : "https://img.sflix.to/xxrz/300x200/224/0c/bc/0cbc164772a518b64acf0dcf450f0fa4/0cbc164772a518b64acf0dcf450f0fa4.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/18673289731ad02811ebd8a1/18673289731ad02811ebd8a1438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2017) S3.E10 ∙ Lantern", "image" : "https://img.sflix.to/xxrz/300x200/224/37/db/37db034517bb78939ebee964e279db23/37db034517bb78939ebee964e279db23.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c3464925d316adf04fc2f75b/c3464925d316adf04fc2f75b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E1 ∙ Smoke", "image" : "https://img.sflix.to/xxrz/300x200/224/72/ed/72ed57983ddab140f8fa41832a2b10db/72ed57983ddab140f8fa41832a2b10db.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/449de443c33883f87b4c3086/449de443c33883f87b4c3086438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E2 ∙ Breathe", "image" : "https://img.sflix.to/xxrz/300x200/224/e5/26/e52616cd06ddc99e1d6587a8faf91047/e52616cd06ddc99e1d6587a8faf91047.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/acd5a37d7275792ca9848854/acd5a37d7275792ca9848854438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E3 ∙ Something Beautiful", "image" : "https://img.sflix.to/xxrz/300x200/224/43/3b/433bc3a0a386b4adf7c913e505f22d4b/433bc3a0a386b4adf7c913e505f22d4b.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/55cf3b4308662e8b35dc2f76/55cf3b4308662e8b35dc2f76438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E4 ∙ Talk", "image" : "https://img.sflix.to/xxrz/300x200/224/25/1c/251c42682369197e5c80e770ed8f27c3/251c42682369197e5c80e770ed8f27c3.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/35f419c4bd155798a76c58ef/35f419c4bd155798a76c58ef438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E5 ∙ Quite a Ride", "image" : "https://img.sflix.to/xxrz/300x200/224/a5/03/a50311ff4d3683e790859ee67decdb45/a50311ff4d3683e790859ee67decdb45.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/bd7ba1a63f3bf5faf04e1c3a/bd7ba1a63f3bf5faf04e1c3a438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E6 ∙ Piñata", "image" : "https://img.sflix.to/xxrz/300x200/224/08/90/0890722b79894edf67cb5d95843e3bb7/0890722b79894edf67cb5d95843e3bb7.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2b017dc0565095f5e416b9d1/2b017dc0565095f5e416b9d1438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E7 ∙ Something Stupid", "image" : "https://img.sflix.to/xxrz/300x200/224/7f/e2/7fe23dfccd278a366b7fc4385b3d82a8/7fe23dfccd278a366b7fc4385b3d82a8.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/94e066046b5dddd12e6f7ccb/94e066046b5dddd12e6f7ccb438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E8 ∙ Coushatta", "image" : "https://img.sflix.to/xxrz/300x200/224/a2/51/a251cb71f902b6ec8764209eddce7385/a251cb71f902b6ec8764209eddce7385.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/5b49f11004c00b03ea0eb8fd/5b49f11004c00b03ea0eb8fd438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E9 ∙ Wiedersehen", "image" : "https://img.sflix.to/xxrz/300x200/224/d7/62/d762ea12d6af267024001ce7bcd38bcc/d762ea12d6af267024001ce7bcd38bcc.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/a1eea8c4cdbb49f772775054/a1eea8c4cdbb49f772775054438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2018) S4.E10 ∙ Winner", "image" : "https://img.sflix.to/xxrz/300x200/224/74/2e/742ed6a011012f957da5bd38e8227c15/742ed6a011012f957da5bd38e8227c15.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/6c98fd3d299723f5b0956032/6c98fd3d299723f5b0956032438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E1 ∙ Magic Man", "image" : "https://img.sflix.to/xxrz/300x200/224/1d/b0/1db08e75c0b21f6fd8e7daa752bdc2e5/1db08e75c0b21f6fd8e7daa752bdc2e5.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/64219a2a7c76a3e55c316f09/64219a2a7c76a3e55c316f09438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E2 ∙ 50% Off", "image" : "https://img.sflix.to/xxrz/300x200/224/15/59/15598871f6aa1061861323d1a5300398/15598871f6aa1061861323d1a5300398.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/f4d0c105dd0a5837f90e206b/f4d0c105dd0a5837f90e206b438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E3 ∙ The Guy for This", "image" : "https://img.sflix.to/xxrz/300x200/224/65/93/659373476eac8da19af8507bb76ce96d/659373476eac8da19af8507bb76ce96d.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/74649686ba44094998402e7c/74649686ba44094998402e7c438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E4 ∙ Namaste", "image" : "https://img.sflix.to/xxrz/300x200/224/b0/8d/b08dc07327c4ad2ec85d66a7994295c6/b08dc07327c4ad2ec85d66a7994295c6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/9f1b06bf29bb3bc554787dc7/9f1b06bf29bb3bc554787dc7438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) ", "image" : "https://img.sflix.to/xxrz/300x200/224/15/03/1503b85cc1fc3ea426b16ca2c1420ca0/1503b85cc1fc3ea426b16ca2c1420ca0.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c0d2fe3c8be6ef2551b1230d/c0d2fe3c8be6ef2551b1230d438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E6 ∙ Wexler v. Goodman", "image" : "https://img.sflix.to/xxrz/300x200/224/c8/f1/c8f18c57b81b38d7938e98d700e18e2a/c8f18c57b81b38d7938e98d700e18e2a.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/147a2636765a8848a31371da/147a2636765a8848a31371da438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E7 ∙ JMM", "image" : "https://img.sflix.to/xxrz/300x200/224/77/f5/77f5bfe0e517dbaca38095dbd347153c/77f5bfe0e517dbaca38095dbd347153c.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/9b407f43db6f0a6860950132/9b407f43db6f0a6860950132438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E8 ∙ Bagman", "image" : "https://img.sflix.to/xxrz/300x200/224/8b/4e/8b4e871eadf7597e8d34d685ea4cd45d/8b4e871eadf7597e8d34d685ea4cd45d.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2888f11b72f5278f6f1bfc7c/2888f11b72f5278f6f1bfc7c438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E9 ∙ Bad Choice Road", "image" : "https://img.sflix.to/xxrz/300x200/224/72/f4/72f436fa7fa945c0bfe9e1641d22318c/72f436fa7fa945c0bfe9e1641d22318c.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/faf73e3e0d3a5f8bbb68d1a9/faf73e3e0d3a5f8bbb68d1a9438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2020) S5.E10 ∙ Something Unforgivable", "image" : "https://img.sflix.to/xxrz/300x200/224/9b/48/9b486e7c57a4edbfa35b8f20c25a6001/9b486e7c57a4edbfa35b8f20c25a6001.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/8f23c1d1c29c6a8f9aa589bf/8f23c1d1c29c6a8f9aa589bf438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E1 ∙ Wine and Roses", "image" : "https://img.sflix.to/xxrz/300x200/224/01/d8/01d87e7e72db83cfaf07d5a5e2823200/01d87e7e72db83cfaf07d5a5e2823200.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/99e897ba2657b55c74b1a251/99e897ba2657b55c74b1a251438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E2 ∙ Carrot and Stick", "image" : "https://img.sflix.to/xxrz/300x200/224/6d/0c/6d0c8ad5c360958155cca0d9dfdc88b6/6d0c8ad5c360958155cca0d9dfdc88b6.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/af8bab405e5384d94fe6d455/af8bab405e5384d94fe6d455438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E3 ∙ Rock and Hard Place", "image" : "https://img.sflix.to/xxrz/300x200/224/92/e2/92e2e589fecae3ab303d1f6300297a66/92e2e589fecae3ab303d1f6300297a66.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/e874c6357ff0f5527297ffda/e874c6357ff0f5527297ffda438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E4 ∙ Hit and Run", "image" : "https://img.sflix.to/xxrz/300x200/224/a2/aa/a2aa0f343fb069480d1649b7d9da5d63/a2aa0f343fb069480d1649b7d9da5d63.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/aa8be1d4d5264a22ee9e0f54/aa8be1d4d5264a22ee9e0f54438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E5 ∙ Black and Blue", "image" : "https://img.sflix.to/xxrz/300x200/224/3a/0f/3a0f5ffc043532b56bfde5aeb2f344dd/3a0f5ffc043532b56bfde5aeb2f344dd.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/cf841da5efffa97964c16835/cf841da5efffa97964c16835438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E6 ∙ Axe and Grind", "image" : "https://img.sflix.to/xxrz/300x200/224/e5/f1/e5f17fd518a3755e72710cca8ea4d3dc/e5f17fd518a3755e72710cca8ea4d3dc.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/5c5b2c2428d2315c27ce9dcc/5c5b2c2428d2315c27ce9dcc438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E7 ∙ Plan and Execution", "image" : "https://img.sflix.to/xxrz/300x200/224/60/d8/60d87a5efec54e906cdda8b531e16023/60d87a5efec54e906cdda8b531e16023.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/2fd45ec063618200724219e5/2fd45ec063618200724219e5438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E8 ∙ Point and Shoot", "image" : "https://img.sflix.to/xxrz/300x200/224/34/5e/345e716e2cacfd2b72a59b754577b53b/345e716e2cacfd2b72a59b754577b53b.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/c4d0572bcc0920714f18da1e/c4d0572bcc0920714f18da1e438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E9 ∙ Fun and Games", "image" : "https://img.sflix.to/xxrz/300x200/224/d3/2d/d32dda68de5362fa4dd2edbf7a1ad9b4/d32dda68de5362fa4dd2edbf7a1ad9b4.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/966d86111a32e3f8220fe882/966d86111a32e3f8220fe882438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E10 ∙ Nippy", "image" : "https://img.sflix.to/xxrz/300x200/224/67/b1/67b17dec343967b0d19d2504554c964a/67b17dec343967b0d19d2504554c964a.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/84dcd7f8afb0ea93d4e77d8c/84dcd7f8afb0ea93d4e77d8c438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E11 ∙ Breaking Bad", "image" : "https://img.sflix.to/xxrz/300x200/224/15/4a/154ab57f6ca2263362e6ae54cd055c53/154ab57f6ca2263362e6ae54cd055c53.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/7866a5f662011c9e1830b5a9/7866a5f662011c9e1830b5a9438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E12 ∙ Waterworks", "image" : "https://img.sflix.to/xxrz/300x200/224/9d/8f/9d8f5f8868417baa67895bde057d83e8/9d8f5f8868417baa67895bde057d83e8.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/5c1229c67f0b8897e54c9260/5c1229c67f0b8897e54c9260438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Better Call Saul (2022) S6.E13 ∙ Saul Gone", "image" : "https://img.sflix.to/xxrz/300x200/224/db/44/db44b5aeaadedfffa37c99a2b6ebd3ae/db44b5aeaadedfffa37c99a2b6ebd3ae.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/newplaylist/f1681148dfcad8e2777cf0a3/f1681148dfcad8e2777cf0a3438.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "27. The Blue Planet (2001)", "image" : "https://m.media-amazon.com/images/M/MV5BMjQyMjY1NjYzNF5BMl5BanBnXkFtZTgwMDQ3NDM1NjE@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "28. Arcane (2021–2024)", "image" : "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "29. Scam 1992: The Harshad Mehta Story (2020)", "image" : "https://m.media-amazon.com/images/M/MV5BNGRkOTVjODgtNTBmZS00MDQ3LWE3ZjQtM2ZiNDQ3OWJkMjM2XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "30. Clarkson's Farm (2021–)", "image" : "https://m.media-amazon.com/images/M/MV5BNTNlZGFjOTgtN2QyYS00ZjY3LThjOTEtOTQ3ZDdhM2Y4ZjQ3XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "31. Human Planet (2011)", "image" : "https://m.media-amazon.com/images/M/MV5BOGI0ZmRlN2EtNGY3YS00YjA1LWJjZWQtYTM5ZTZlYTMwNmVjXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "32. Frozen Planet (2011–2012)", "image" : "https://m.media-amazon.com/images/M/MV5BMDE0ZTZlZDItOTgzNS00Zjg4LWEwOWEtYjc1YzY2MjliZTM5XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "33. Firefly (2002–2003)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "33. Firefly (2002–2003)", "image" : "https://m.media-amazon.com/images/M/MV5BYzYyZWYzNzUtOWQ4Yi00Y2Q4LWJjZjgtZTllNjg2ZGM0MTcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "34. Hunter x Hunter 92011–2014)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "34. Hunter x Hunter 92011–2014)", "image" : "https://m.media-amazon.com/images/M/MV5BYzYxOTlkYzctNGY2MC00MjNjLWIxOWMtY2QwYjcxZWIwMmEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "35. Only Fools and Horses 91981–2003)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "35. Only Fools and Horses 91981–2003)", "image" : "https://m.media-amazon.com/images/M/MV5BMWM4YjFhOWMtYzg1Yi00NTA2LTlmNzMtNDk3M2M1MTRiN2QyXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "36. Death Note (2006–2007)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "36. Death Note (2006–2007)", "image" : "https://m.media-amazon.com/images/M/MV5BMjc4ZTEwYzYtM2U3Ny00ZjBiLWExZWItMTk0MmY4NjFhNzUwXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "37. The Civil War (1990)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "37. The Civil War (1990)", "image" : "https://m.media-amazon.com/images/M/MV5BYTUwNTM2YTAtODA3Yi00YjU0LTliNzktM2YzMzk5NzU5ZTcyXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "38. Seinfeld (1989 - 1998)", "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_IWBt4YnFoz09CmM9VT3Asl0jsmTbZ24orsw_WH4NudjTJVCA", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "39. Gravity Falls (2012–2016)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "39. Gravity Falls (2012–2016)", "image" : "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_QL75_UX190_CR0,7,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "40. Dekalog (1989–1990)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "40. Dekalog (1989–1990)", "image" : "https://m.media-amazon.com/images/M/MV5BZmUzZjk0NjEtOTFjMC00NDI2LTkwZmEtZWIxYjVjNDEwNWZiXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "41. The Beatles: Get Back (2021)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "41. The Beatles: Get Back (2021)", "image" : "https://m.media-amazon.com/images/M/MV5BYmEzY2E0MDQtMTc3NS00OTM5LWIyMDMtMTliNThlOWQ5OWEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "42. Cowboy Bebop (1998–1999)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "42. Cowboy Bebop (1998–1999)", "image" : "https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "43. True Detective (2014–)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "43. True Detective (2014–)", "image" : "https://m.media-amazon.com/images/M/MV5BNzk4ODZkNTYtNjU2Yi00YTU5LWFmMjYtNjNiMTRhMjEzNDQ1XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "44. Fargo (2014 - 2024)", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5U2umcU6FE6rxRV3VC_H0e2y0Z4CK443CwnHnR797Bt3SNUw", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "53. Friends (1994 - 2004)", "image" : "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p183931_b_v8_ac.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "54. Succession (2018 - 2023)", "image" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk-VUk0jBqg6bfqnVM2Jh96bzPdyAhA3U2-TAvkAIIsGXkghcM", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Succession (2023) S4.E1 ∙ The Munsters", "image" : "https://img.sflix.to/xxrz/300x200/224/12/cf/12cf23120edecc71354463d05577fc04/12cf23120edecc71354463d05577fc04.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/59Rok4nyT/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E2 ∙ Rehearsal", "image" : "https://img.sflix.to/xxrz/300x200/224/97/bd/97bd5e9ac9d72e494a35ffa1448875b5/97bd5e9ac9d72e494a35ffa1448875b5.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/XLOBgwcOnu/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E3 ∙ Connor's Wedding", "image" : "https://img.sflix.to/xxrz/300x200/224/64/93/64936fa0d9defa77292c17276d80d164/64936fa0d9defa77292c17276d80d164.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/Xmzkh6go63/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E4 ∙ Honeymoon States", "image" : "https://img.sflix.to/xxrz/300x200/224/02/e2/02e2865f1aea9a4690d2c54b5bb93a1a/02e2865f1aea9a4690d2c54b5bb93a1a.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/noX3EvcNUw/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E5 ∙ Kill List", "image" : "https://img.sflix.to/xxrz/300x200/224/07/c2/07c2cc4b51256427f22d7c20f38c1283/07c2cc4b51256427f22d7c20f38c1283.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/aoXwulnqjL/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E6 ∙ Living+", "image" : "https://img.sflix.to/xxrz/300x200/224/bb/3c/bb3c13a8242a4f1baa4d7ff7160f4af7/bb3c13a8242a4f1baa4d7ff7160f4af7.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/jA7qfULYxd/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E7 ∙ Tailgate Party", "image" : "https://img.sflix.to/xxrz/300x200/224/7c/d8/7cd832c629c66c12c2de04f559a91928/7cd832c629c66c12c2de04f559a91928.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/MiFMAs2bX2/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E8 ∙ America Decides", "image" : "https://img.sflix.to/xxrz/300x200/224/f3/6f/f36f80c0b3db9a7b5a23ad25ddeb25c5/f36f80c0b3db9a7b5a23ad25ddeb25c5.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/81RgnAmyrg/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E9 ∙ Church and State", "image" : "https://img.sflix.to/xxrz/300x200/224/73/c8/73c89c3b90d90ffdd56c0142d2465f18/73c89c3b90d90ffdd56c0142d2465f18.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/rpj0sTNoyF/video.mp4/playlist.m3u8", "import" : "" },
+{ "name" : "Succession (2023) S4.E10 ∙ With Open Eyes", "image" : "https://img.sflix.to/xxrz/300x200/224/24/42/24420c862f61b1d212f49d4ad0ef58c4/24420c862f61b1d212f49d4ad0ef58c4.jpg", "url" : "https://series-cdn.team-indy.net:8443/vod/3oQYCjWuX3/video.mp4/playlist.m3u8", "import" : "" }
 ] },
-{ "name" : "55. It's Always Sunny in Philadelphia (2005–Present)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "55. It's Always Sunny in Philadelphia (2005–Present)", "image" : "https://m.media-amazon.com/images/M/MV5BZTEyY2Q1MmYtNDZmOS00NDM2LWFjZDAtMTU5MmU1MWU3YzNhXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "57. The West Wing (1999-2006)", "image" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp7KCk8j3ZvEugqH64u5eKRHGSe7rRuwtQqFf0Udr944Jlotbi", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "60. Curb Your Enthusiasm (2000-Present)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "60. Curb Your Enthusiasm (2000-Present)", "image" : "https://m.media-amazon.com/images/M/MV5BZmFiZDY2ZDItZDliOC00Y2JhLTliMWYtODkzMTA0YmIwZDA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "63. BoJack Horseman (2014-2020)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "63. BoJack Horseman (2014-2020)", "image" : "https://m.media-amazon.com/images/M/MV5BZmMwMDlkNTEtMmQzZS00ODQ0LWJlZmItOTgwYWMwZGM4MzFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "68. Freaks and Geeks (1999-2000)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "68. Freaks and Geeks (1999-2000)", "image" : "https://m.media-amazon.com/images/M/MV5BNDk4MTRlZjMtYTMxYi00ZjdkLWEyYjYtZjg1NjBlMzY2MDIzXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "80. Black Mirror (2011–Present)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "80. Black Mirror (2011–Present)", "image" : "https://m.media-amazon.com/images/M/MV5BMWY3ZjgwMTctZTZmMS00ZTMwLTkwYWEtNTVkMDgwNjA5ODBiXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "82. South Park (1997-Present)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "82. South Park (1997-Present)", "image" : "https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "88. Six Feet Under (2001 - 2005)", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZgzIGPzCT2nugUcLEJBaZ2yY-kcyKmEMjcOr1c8v6ZVbrY8CS", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "96. Fleabag (2016-2019)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "96. Fleabag (2016-2019)", "image" : "https://m.media-amazon.com/images/M/MV5BMjA4MzU5NzQxNV5BMl5BanBnXkFtZTgwOTg3MDA5NzM@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "99. Battlestar Galactica (2003-2004)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "99. Battlestar Galactica (2003-2004)", "image" : "https://m.media-amazon.com/images/M/MV5BNjYwYTVjMWMtZDEwYS00ODUzLWIwN2UtYTRjODUxYzU4MWEzXkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "102. The Simpsons (1989 - Present)", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-dq_GzrV9ZZ4pq0ma3gjus8z3jk5c5hukLrcoaoY0ApOJAk8A", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "104. Mad Men (2007–2015)", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajHdPSq6fXPKJzFgVw9rZrQIipqm4OIinbb8Gn80u0CU2aOSd", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "107. Arrested Development (2003-2006)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "107. Arrested Development (2003-2006)", "image" : "https://m.media-amazon.com/images/M/MV5BOTk3N2M0MjktMDhkNi00ZGVhLTk4YTUtYjI5MDJmMWUzNTgwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "108. Star Trek: The Next Generation (1987–1994)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "108. Star Trek: The Next Generation (1987–1994)", "image" : "https://m.media-amazon.com/images/M/MV5BMmNiNTQ2YzYtODBjYy00ZWMwLTlmNWMtYWE1NTQ2ZTYyZmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "116. Stranger Things (2016-2025)", "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "119. Friday Night Lights (2006-2011)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "119. Friday Night Lights (2006-2011)", "image" : "https://m.media-amazon.com/images/M/MV5BNzMxNzQwODItNDFiYy00YjFhLWJjMzUtYjc0Nzk5ZTI4ODA1XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "134. Atlanta (2016–Present)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "134. Atlanta (2016–Present)", "image" : "https://m.media-amazon.com/images/M/MV5BMDAzMDdkZmEtN2QxMi00NGQ2LTg3MTEtYTBlMmNmYmJjOTc1XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "135. Parks and Recreation (2009-2015)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "135. Parks and Recreation (2009-2015)", "image" : "https://m.media-amazon.com/images/M/MV5BNDlhMzAwNTAtNTk2NS00MTdkLWE3ZWYtMDU0MTFiYmU2ZTc0XkEyXkFqcGc@._V1_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "136. The X-Files (1993-2018)", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUSNBSTFBaMcjVa5vD_ecRCQV-1nDgEqnHz6eDflW975m1M54", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "137. Deadwood (2004-2006)", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVf6q7z7vXuIkvBL0qkQ-RbLxawd7WxugnuvOhdKDkyq0x2elw", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "217. The Office (2005 - 2013)", "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ-0paZQCnnc68y51MItguJrzBtc1DhWfw4Aw0BBnYNGir5SPn", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
 { "name" : "221. Twin Peaks (1990-1991)", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtrGpEEbKcNLZ_fypt1KTB6ux51PD52p8xXg5Uw0UNAJ5hCEMI", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "233. Futurama (1999–2013)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "233. Futurama (1999–2013)", "image" : "https://m.media-amazon.com/images/M/MV5BMDAyZDM2Y2EtMzdlYy00NTllLWIxNTItYjBhNDUzODA4ZWI1XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "236. Doctor Who (1963-1989)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "236. Doctor Who (1963-1989)", "image" : "https://m.media-amazon.com/images/M/MV5BNTA2N2RlZGYtYTFjNS00Njg2LWIwZWUtM2YyMDUxMmE0NzdiXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] },
-{ "name" : "249. Community (2009–2015)", "image" : "", "url" : "", "import" : "" ,
+{ "name" : "249. Community (2009–2015)", "image" : "https://m.media-amazon.com/images/M/MV5BOGIwYzNmYTktZWExZC00MzAyLTk4NTItODgwZmIyNWZhNDEyXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-] },
+{ "name" : "", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
+] }
 ] }
