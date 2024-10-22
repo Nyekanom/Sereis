@@ -1,7 +1,7 @@
 { "name" : "TMDB Top Rated TV Shows", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7oRCGAldWvtttnZQj7-TT8I1jG_kDczx2g&s", "info" : "https://www.themoviedb.org/tv/top-rated", "author" : "Chaithale" ,"epgId" : "" ,
 "groups" : [
 { "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
-{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Sereis/refs/heads/main/TMDB%20Top%20Rated%20TV%20Shows", "import" : "FALSE" },
 
 { "name" : "Breaking Bad (2008-2013) ดับเครื่องชน คนดีแตก", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/piGpakRtB2J30kyAuAnuMqgMsgH.jpg", "info" : "⭐89%", "url" : "", "import" : "" ,
 "stations" : [
