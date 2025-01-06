@@ -45,7 +45,7 @@
 { "name" : "S2.E7 ∙ The Theater and Its Double (2022)", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/af1f7d63/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "S2.E8 ∙ All My Life, My Heart Has Yearned for a Thing I Cannot Name (2022)", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/po4G5fgneIoiuk7TWlvcusWM1HS.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/20ac9c76/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 ] },
-{ "name" : "The Naked Director โป๊ บ้า กล้า รวย", "image" : "", "info" : "⭐ 7.7", "url" : "", "import" : "" ,
+{ "name" : "The Naked Director โป๊ บ้า กล้า รวย", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg", "info" : "⭐ 7.7", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "Season 1", "image" : "https://media.themoviedb.org/t/p/w130_and_h195_bestv2/nbeRva0jrmJAvRflXAe89CbD3Kg.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "S1.E1 ∙ The Hidden Side", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hMBdEAnrZgd8wN73CcZGTi8ApWr.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/3cba5644/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
@@ -66,7 +66,7 @@
 { "name" : "S2.E7 ∙ The Fall", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ex6AYZrdtuyhk4bC0Nq9LicyOCf.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/6c45cbf1/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "S2.E8 ∙ The Will of a Stone", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qIBaoxJfXM2eXpaGqlecgJkv35r.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/aec6af86/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 ] },
-{ "name" : "Spartacus (2010) ขุนศึกชาติทมิฬ", "image" : "", "info" : "", "url" : "", "import" : "" ,
+{ "name" : "Spartacus (2010) ขุนศึกชาติทมิฬ", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "Blood and Sand", "image" : "https://media.themoviedb.org/t/p/w130_and_h195_bestv2/1rZfcPsrKEEwvmsKlgVjTeYyUha.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "S1.E1 ∙ The Red Serpent", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eb4fWyoQfwxB1bzoeQuyZV3Nuyj.jpg", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/6178512b8281bD11/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
@@ -105,7 +105,7 @@
 { "name" : "", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/d9zgukBnFYPA8l3ybI6hW3ql91d.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "", "image" : "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/apFgewnTahXf6bVvYyr8Db8cu3M.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 ] },
-{ "name" : "Fishbowl Wives (2022)", "image" : "", "info" : "", "url" : "", "import" : "" ,
+{ "name" : "Fishbowl Wives (2022)", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2wt5obMk1u0McCiRSL7exFsPmYL.jpg", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "Season 1", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/620b3207930e3FK6/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
@@ -117,7 +117,7 @@
 { "name" : "", "image" : "", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/620b323a4e1e53AA/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/620b3241c48e76p6/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 ] },
-{ "name" : "Toy Boy (2019) คน ใคร่ แค้น", "image" : "", "info" : "", "url" : "", "import" : "" ,
+{ "name" : "Toy Boy (2019) คน ใคร่ แค้น", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5jhblvJAmiAVpxWOEXemqEUJYAA.jpg", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "Season 1", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
 { "name" : "", "image" : "", "epgId" : "", "url" : "https://text-lb.xmoviedo24.com/playlist2/62021d9b341c4d2e/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "","online" : "", "embed" : "" },
